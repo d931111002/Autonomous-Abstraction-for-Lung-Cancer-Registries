@@ -1,0 +1,957 @@
+Text,Raw_JSON,Predicted_Diagnosis,Inference_Time_sec
+"The specimens submitted for frozen diagnosis consists of two bags labeled as (1) right pleura and (2) RUL tumor, respectively in fresh state. The third specimen labeled as RUL tumor was subsequently submitted in fresh state.
+
+The bag (1) consists of one tissue fragment measuring 2.5 x 1.6 x 0.5 cm in size. Grossly, it is light brown and elastic with fat tissue attached on dense fibrous tissue.
+The bag (2) consists of one tissue fragment measuring 1.2 x 0.8 x 0.4 cm in size. Grossly, it is reddis","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": ""glandular""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""Adenocarcinoma is identified in the pathology report. The tumor is described as 'adenocarcinoma of lung composed of neoplastic cells arranged in irregular, complex glandular and focal papillary patterns infiltrating in the desmoplastic stroma.' The variant is not specified. The tumor is not described as squamous or neuroendocrine.""}",Adenocarcinoma (glandular),15.32
+"The specimen submitted consists of more than ten tissue fragments, measuring up to 1.0x0.1x0.1 cm in size, fixed in formalin.
+
+Grossly, they are gray and soft.
+
+All for section.
+
+Microscopically, it shows a picture of hepatocellular carcinoma composed of tumor cells with mild to moderate pleomorphic nuclei in trabecular pattern. The tumor cells are immunoreactive to Hep-par-1 but not to CK7 and TTF-1, consistent with metastatic hepatocellular carcinoma. No lung parenchyma is noted in the section","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Hepatocellular carcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""Hepatocellular carcinoma is a primary liver malignancy, not a primary lung malignancy. The tumor cells are immunoreactive to Hep-par-1 but not to CK7 and TTF-1, consistent with metastatic hepatocellular carcinoma. No lung parenchyma is noted in the section.""}",Hepatocellular carcinoma,12.59
+"The specimen consists of three tissue fragments, measuring up to 0.2 x 0.2 x 0.2 cm. in size, fixed in formalin.
+
+Grossly, they are grayish and soft.
+
+All for section.
+
+Microscopically, it shows a picture of benign lung and bronchial tissue. Some eosinophilic fibrinoid or mucoid material is noted. No granulomatous inflammation is seen. No bacillus is found in acid fast stain.
+
+<Reference>
+WF13-14660Pleura, ? side, biopsy, fibrosis
+M13-02968   Pleura, Inflammation or repair
+M13-03040   Pleura, Be","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'fibrosis' and 'benign non-specific cellular change'.""}",Negative,9.57
+"The specimen submitted consists of three tissue fragments, measuring up to 0.3 x 0.1 x 0.1 cm. in size, fixed in formalin.
+
+    Grossly, they are grayish and soft.
+
+    All for section.
+
+    Microscopically, it shows soft tissue fragments metastasized by hyperchromatic tumor cells with markedly pleomorphic nuclei, eosinophilic cytoplasm and myxoid background. Tumor necrosis is focally seen. Immunohistochemically, the tumor cells are positive for vimentin and negative for cytokeratin. Combined th","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Sarcoma""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""Sarcoma is the primary malignancy, with no evidence of adenocarcinoma, squamous cell carcinoma, or neuroendocrine carcinoma. The tumor cells are positive for vimentin and negative for cytokeratin, consistent with a sarcoma.""}",Sarcoma,11.71
+"The specimen submitted consists of four tissue fragments, measuring up to 0.1 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+Grossly, they are grayish and soft.
+
+All for section.
+
+Microscopically, the section shows a picture of pieces of benign bronchial and lung tissues without malignancy.","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'benign bronchial and lung tissues without malignancy'.""}",Negative,9.51
+"The specimen is submitted in two bags labeled as 1) lower and 2) upper, respectively, fixed in formalin.
+    
+The bag 1) contains one tissue fragment measuring 4.3 x 2.8 x 0.6 cm in size. Grossly, it is brown and elastic.
+The bag 2) contains one tissue fragment measuring 3.5 x 2.7 x 0.9 cm in size. Grossly, it is brown and elastic.
+
+All for section and labeled as:
+A1-2: lower;    B1-2: upper
+
+Microscopically, the sections A1-2 show lung tissue with distorted architecture. Irregular and cystic sp","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. Non-thoracic primary is suspected.""}",Negative,8.91
+"The specimen submitted consists of a segment of small intestine, fixed in formalin.
+
+    Grossly, the small intestine measures 42 cm. in length and 8 cm. in maximal circumference. It has been opened along the antimesenteric side. There are six ulcerative tumors, measuring up to 6 x 5.2 x 4 cm. in size on the mucosa. The bilateral surgical margins are 2.4 cm. and 5 cm. away from the tumors. On cut, they are whitish and elastic to firm. Necrosis is noted. Some tumors involve the whole layers of th","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is poorly-differentiated carcinoma, morphologically similar to lung primary, with immunohistochemical staining for cytokeratin and TTF-1, and negative for HMB-45, CD117 and CD34. The morphologic and immunohistochemical results are similar to those in the previous biopsy specimen (WFH 02-6747).""}",Non-Small Cell Lung Cancer,13.66
+"The specimen submitted consists of four tissue fragments, measuring up to 0.2 x 0.1 x 0.1 cm. in size, fixed in formalin.
+
+    Grossly, they are brownish and soft.
+
+    All for section.
+
+    Microscopically, it shows acute inflammatory cell infiltrate in the lung tissue. Neither  malignancy nor granulomatous inflammation is found in this specimen.","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions inflammation.""}",Negative,8.68
+"The specimen submitted consists of four tissue fragments, measuring up to 1.4 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+Grossly, they are gray and soft.
+
+All for section.
+
+Microscopically, it shows a lymphocyte-rich lesion with indistinguishable epithelial component. No lung tissue is included. Immunohistochemically, CK(AE1/AE3) and PAX8 demonstrate delicate network and focal clusters of epithelial cells, with TdT+ immature T cells in the background. A thymoma is considered, and the subtype is","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lymphoma""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is a lymphoma, with no epithelial component. The immunohistochemical stains show TdT positivity in the background, consistent with an immature T cell component. This is a thymoma, with the subtype indeterminate in this small specimen.""}",Lymphoma,11.56
+"The specimen submitted consists of one tissue fragment, measuring 1.5 x 1 x 0.4   cm in size, fixed in formalin.
+
+Grossly, it is white and firm.
+
+All for section.
+
+Microscopically, the section shows a picture of metastatic carcinoma in lymph node composed of large nest of neoplastic cells almost completely replaced whole nodal tissue. The neoplastic cells have medium to large amount of cytoplasm and enlarged and pleomorphic nuclei. Mitotic activity is frequently noted. Tumor necrosis and desmopl","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Squamous cell carcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": true, ""subtype"": ""not specified""}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""Squamous cell carcinoma is identified by immunohistochemical study, with positivity for p63 and focal positivity for CK5/6, and negativity for TTF-1 and naposin A. Adenocarcinoma is ruled out.""}",Squamous Cell Carcinoma (not specified),11.92
+"The specimen submitted consists of more than ten tissue fragments, measuring up to 4.5x 3.0 x 1.7 cm in size, fixed in formalin.
+
+Grossly, they are brown and soft to hard.
+
+All for section and labeled as: A to K (decalcified)
+
+Microscopically, the sections show a picture of metastatic carcinoma composed of sheets and nests of tumor cells with desmoplastic stroma in bone and soft tissue. The tumor cells have moderate to large amount of eosinophilic cytoplasm and enlarged and pleomorphic nuclei wi","{""level_1_malignancy_found"": true, 
+""level_2_primary_types"": [""Squamous cell carcinoma""], 
+""level_3_adenocarcinoma_details"": {""is_present"": false, 
+""specific_variant"": null, ""predominant_subtype"": null}, 
+""level_4_squamous_details"": {""is_present"": true, ""subtype"": 
+null}, 
+""level_5_6_neuroendocrine_details"": {""is_present"": false, 
+""specific_type"": null}, 
+""reasoning_trace"": ""Squamous cell carcinoma is diagnosed. 
+Immunohistochemical study shows tumor cells are positive for 
+CK7 and p63 and negative for CK20, TTF1, and naposin A.""}",ERROR,11.84
+"The specimen submitted consists of two tissue fragments measuring up to 2.0 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+Grossly, they are tan and soft.
+
+All for section.
+
+Microscopically, it shows a picture of metastatic poorly-differentiated carcinoma composed of small to medium-sized oval cells and spindle cells arranged in nests, strands, and cord-like pattern in hyalinized stroma. The carcinoma cells reveal moderate nuclear pleomorphism and focal nuclear molding with hyperchromatic nuclei an","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": true, ""specific_type"": ""Poorly-differentiated neuroendocrine carcinoma, in favor of lung origin""}, ""reasoning_trace"": ""The tumor cells are positive for chromogranin and TTF-1, and negative for CK7, CK20, synaptophysin, p63, ER, or PR, indicating a poorly-differentiated neuroendocrine carcinoma, in favor of lung origin. A metastatic small cell lung carcinoma is suggested.""}","Poorly-differentiated neuroendocrine carcinoma, in favor of lung origin",13.72
+"The specimen submitted consists of more than ten tissue fragments measuring up to 5.3x4.5x4.0 cm in size, fixed in formalin.
+
+Grossly, they are bony fragments including femoral head. The articular cartilage of the femoral head is mildly eroded. On cut, it is white and soft to firm.
+
+Representative sections are taken and labeled as A to C (decalcified)
+Microscopically, it shows a picture of metastatic carcinoma arranged in solid nests and single cells in the fibrotic marrow spaces.The tumor cells","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells show eosinophilic cytoplasm and pleomorphic nuclei. They are focally positive for mucin by mucicarmine stain. The immunohistochemcial stain displays the tumor cells show positive nuclear staining for thyroid transcription factor-1. According to the above features, metastatic lung adenocarcinoma is diagnosed.""}",Adenocarcinoma,13.37
+"The specimen submitted consists of  one tissue fragment, measuring 0.1x 0.1 x0.05    cm. in size, fixed in formalin.
+
+    Grossly, it is grayish and soft.
+
+    All for section.
+
+    Microscopically, it shows only unremarkable bronchial ciliated epithelia. No specific microorganism is seen. Please correlate with clinical findings.
+
+
+","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. Non-thoracic primary is suspected.""}",Negative,8.86
+"The specimen submitted consists of one 17-gestation-week male fetus and one separated placenta, in fresh status. 
+
+Grossly, the male fetus weighs 165.3 gm in weight and measured 140 mm in crown-rump length. The circumference of the head, chest and abdomen is 171 mm, 132 mm and 133 mm, respectively. The foot length measures 25mm. It is appropriate for gestational age. Opening the chest, the heart measures 1.5 x 1.0 x 0.3 cm in size and is unremarkable. No congenital abnormality is seen grossly. T","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. This is a normal fetal autopsy report.""}",Negative,9.37
+"The specimen submitted for frozen diagnosis consists one tissue fragment, measuring 1.2 x 1.0 x 1.0 cm in size, in fresh status. 
+Grossly, it is brown and soft.
+All for section after bisection 
+Microscopically, it shows a picture of adenocarcinoma with glandular and papillar structures lined by cuboidal to low columnar tumor cells in a fibrotic background. Anthracotic pigment deposition is also present in areas.
+
+Frozen diagnosis: adenocarcinoma by Dr. Cheng
+Reference:
+WF07-00292  Lung, ? site, ","{""level_1_malignancy_found"": true, 
+""level_2_primary_types"": [""Adenocarcinoma""], 
+""level_3_adenocarcinoma_details"": {""is_present"": true, 
+""specific_variant"": null, ""predominant_subtype"": ""glandular and papillar""}, 
+""level_4_squamous_details"": {""is_present"": false}, 
+""level_5_6_neuroendocrine_details"": {""is_present"": false, 
+""specific_type"": null}, 
+""reasoning_trace"": ""Adenocarcinoma is identified in the pathology report. The tumor cells are described as cuboidal to low columnar, with glandular and papillar structures. This is consistent with a glandular or acinar subtype of adenocarcinoma. The variant is not specified, but the predominant subtype is described as glandular and papillar. Squamous cell carcinoma is not identified. Neuroendocrine features are not described.""}",Adenocarcinoma (glandular and papillar),15.12
+"The specimen consists of three tissue fragments, measuring up to 0.6 x 0.05 x 0.05 cm. in size, fixed in formalin.
+
+Grossly, they are grayish and soft.
+
+All for section.
+
+Microscopically, the specimen is composed of benign bronchial and lung alveolar tissue. No carcinoma is found.","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'benign bronchial and lung alveolar tissue', without any carcinoma found.""}",Negative,9.82
+"The specimen submitted consists of three tissue fragments, measuring up to 0.2 x 0.2 x 0.2 cm. in size, fixed in formalin.
+
+Grossly, they are grayish and soft.
+
+All for section.
+
+Microscopically, serial sections show a picture of only mild chronic inflammation of bronchus with mild chronic inflammatory cell infiltration of the bronchial tissue.
+No malignant tumor cells can be identified.  Please repeated perform adequate biopsy as necessary. Closely follow up!
+
+Reference:
+WF08-07004Bone,  thorac","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor cells identified.  Adenocarcinoma is suspected but not confirmed.  Further biopsy is recommended.""}",Adenocarcinoma,9.95
+"The specimen consists of more than ten tissue fragments, measuring up to 7 x 1.5 x 0.4 cm. in size, fixed in formalin.
+
+Grossly, they are brownish and soft elastic to firm.
+
+Representative sections are taken and labeled as: A and B (decalcified)
+
+Microscopically, it shows a picture of adenocarcinoma arranged in solid nests and glandular structures. The tumor cells reveal marked nuclear atypia. Necrosis is obvious. The immunohistochemical stains show the tumor cells are diffusely positive for cyt","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells reveal marked nuclear atypia. Necrosis is obvious. The immunohistochemical stains show the tumor cells are diffusely positive for cytokeratin 7 and rarely positive for cytokeratin 20. Some cells displays positive nuclear staining for thyroid transcription factor 1. It is consistent with metastatic lung adenocarcinoma.""}",Adenocarcinoma,13.52
+"The specimen submitted consists of seven tissue fragments, measuring up to 0.8 x 0.1 x 0.1 cm. in size, fixed in formalin.
+    Grossly, they are grayish and soft.
+    All for section.
+    Microscopically, it shows a picture of adenocarcinoma with large, hyperchromatic nuclei and abundant cytoplasm of teh neoplastic cell arranged in glandular and alveolar patterns infiltrating in the fibrotic stroma.
+
+Additional report
+
+Immunohistochemical study for TTF-1 is positive, and Calretinin is negative. ","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is described as adenocarcinoma with glandular and alveolar patterns, and is positive for TTF-1 and negative for Calretinin. This is consistent with a primary lung adenocarcinoma.""}",Adenocarcinoma,11.73
+"The specimen submitted consists of five tissue fragments, measuring up to 0.1 x 0.1 x 0.1 cm. in size, fixed in formalin.
+
+Grossly, they are brown and soft.
+
+All for section.
+
+Microscopically, serial sections show a picture of mild chronic inflammation of lung and bronchial tissue with mild chronic inflammatory cell infiltration. No carcinoma is found.
+
+Ref:
+M08-02451   Bronchial Brushing, Absence of abnormal findings","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'absence of abnormal findings'.""}",Negative,9.12
+"The specimen submitted contains one tissue fragment, measuring 1.6 x 0.1 x 0.1 cm in size, fixed in formalin
+
+Grossly, it is white and soft. 
+
+All for section
+
+Microscopically, it shows metastatic adenocarcinoma composed of anaplastic tumor cells arranged in solid nests within the desmoplastic stroma. Mucin stain reveals positive staining within the cytoplasm. The immunohistochemistry studies reveal positive for CK7 and TTF-1 (thyroid transcription factor-1), but negative for CK20. The adenocarc","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer (NSCLC)""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are arranged in solid nests within the desmoplastic stroma. Mucin stain reveals positive staining within the cytoplasm. The immunohistochemistry studies reveal positive for CK7 and TTF-1 (thyroid transcription factor-1), but negative for CK20. This is consistent with a lung adenocarcinoma.""}",Non-Small Cell Lung Cancer (NSCLC),13.58
+"The specimen is submitted in two bag labeled as 1). skull and 2). periosteum, respectively, fixed in formalin. 
+
+The bag 1). contains one elliptically shaped flat bone, measuring 11 x 8 x 0.6 cm in size. A piece of muscle adheres to the convex surface. Grossly, both the concave and convex surfaces of the bone are bulged out, with a tumor measuring 6.2 x 5.5 x 3.2 cm in size. The convex surface is focally ragged. On section, the tumor is variegated tan and rubbery and rubbery to firm with bone de","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is described as metastatic adenocarcinoma, with immunohistochemical stain revealing the carcinoma cells are positive for cytokeratin 7 and negative for cytokeratin 20, and focal positive nuclear staining for thyroid transcription factor-1, indicating the adenocarcinoma most likely originates from the lung.""}",Adenocarcinoma,13.03
+"The specimen submitted consists of eight tissue fragments measuring up to 2.2 x 1.5 x 0.6 cm, in size, fixed in formalin.
+
+Grossly, they are brown-red and soft, gritty to hard.
+
+All for section and labeled as A and B. (decalcified)
+
+Microscopically, it shows a picture of metastatic adenocarcinoma arranged in glandular and papillary patterns in the bone. The neoplastic cells display scanty eosinophilic to vacuolated cytoplasm, and slightly enlarged and hyperchromatic nuclei. New bone formation an","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are arranged in glandular and papillary patterns, consistent with adenocarcinoma. The immunohistochemical stain is positive for thyroid transcription factor-1, which is a marker for lung adenocarcinoma. The morphologic and clinical features are consistent with metastatic lung adenocarcinoma.""}",Adenocarcinoma,12.64
+"The specimen submitted consists of four tissue fragments, measuring up to 0.2 x 0.1 x 0.1 cm. in size, fixed in formalin.
+
+Grossly, they are grayish and soft.
+
+All for section.
+
+Microscopically, the original and deep level HE sections show fragments of skin, soft tissue and skeletal muscle with no specific change. No lung tissue is found in the sections. Please rebiopsy if clinically indicated.
+","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. Non-thoracic primary is suspected.""}",Negative,8.84
+"The specimen submitted consists of three tissue fragments, measuring up to 0.6 x 0.5 x 0.4 cm. in size, in fresh state.
+
+    Grossly, thay are dark brown and soft.
+
+    All for section after bisection.
+
+    Microscopically, it shows a picture of lymphoid hyperplasia with marked anthracosis.
+
+Ref: Frozen diagnosis: lymphoid hyperplasia by Dr. Cheng.","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions lymphoid hyperplasia.""}",Negative,8.97
+"The specimen submitted consists of one tissue fragment, measuring 0.3 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+Grossly, it is grey and soft.
+
+All for section.
+
+Microscopically, it shows a picture of ulcer with fibrinoid necrotic debris and neutrophil infiltration. The overlying mucosa shows squamous metaplasia and reactive atypia. Focal atypical cells with hyperchromatic nuclei are found within the ulcer in HE stain but fail to be demonstrated in cytokeratin or mucicarmine sections. Reactive ","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. Non-thoracic primary. No definitive diagnosis of malignancy is made.""}",Negative,9.46
+"The specimen submitted consists of three tissue fragments, measuring up to 0.5x0.1x 0.1 cm in size, fixed in formalin.
+
+Grossly, they are white and soft.
+
+All for section.
+
+Microscopically, it shows a picture of adenocarcinoma arranged in complex glandular structures in the desmoplastic stroma. The carcinoma cells reveal mild to moderate nuclear atypia. The immunohistochemical stain displays the carcinoma cells are positive for cytokeratin 7 and thyroid transcription factor-1. According to the a","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is described as adenocarcinoma, with immunohistochemical stains showing positivity for cytokeratin 7 and thyroid transcription factor-1. This is consistent with a primary lung adenocarcinoma.""}",Adenocarcinoma,11.6
+"The specimen consists of two bags labeled as 1) right upper lobe and 2) right lower lobe, fixed in formalin.
+The bag 1) contains one piece of lung tissue fragment measuring 6x3x1.5 cm in size. Grossly, it is brown and soft on the external surface. On cut, there is an ill-defined, black to gray and firm tumor measuring 1.5x1x0.7 cm in size in the subpleural region of the lung tissue. The tumor is 1 cm away from the surgical margin.
+The bag 2) contains one piece of lung tissue fragment measuring 7","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": ""not otherwise characterized"", ""predominant_subtype"": ""Moderately differentiated""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": ""null""}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": ""null""}, ""reasoning_trace"": ""The tumor is described as adenocarcinoma in the text. The tumor is moderately differentiated. The tumor is not a metastatic colonic adenocarcinoma. The tumor is positive for cytokeratin 7 and TTF1. The tumor is negative for cytokeratin 20. The tumor is not a squamous cell carcinoma. The tumor is not a neuroendocrine carcinoma. The tumor is a primary lung adenocarcinoma.""}",Adenocarcinoma (not otherwise characterized),15.84
+"The specimen consists of two bags labeled as 1) right lower lobe and 2) right upper lobe, in fresh state for frozen diagnosis.
+
+The bag 1) contains one tissue fragment measuring 2x1.2x0.3 cm in size. Grossly, it is gray to white and soft. 
+The bag 2) contains one tissue fragment measuring 0.4x0.4x0.3 cm in size. Grossly, it is gray to white and soft.
+
+All for section and labeled as:
+A: right lower lobe, B: right upper lobe
+
+Microscopically, both sections show a picture of adenocarcinoma predomin","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": ""bronchioloalveolar""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells reveal moderate to marked nuclear atypia. Focal necrosis is seen. According to the histologic and immunohistochemical findings (Reference WF08-13349, cytokeratin 7 (+), cytokeratin 20(-) and TTF1(+)), both tumors are not a metastatic colonic adenocarcinoma. Primary pulmonary adenocarcinoma is diagnosed.""}",Adenocarcinoma (bronchioloalveolar),14.65
+"The specimen consists of more than ten tissue fragments measuring up to 0.3x0.2x0.2 cm in size, fixed in formalin.
+
+Grossly, they are white and soft.
+
+All for section.
+
+Microscopically, it shows a picture of metastatic carcinoma arranged in small nests extending along blood vessels of brain tissue. The tumor cells reveal hyperchromatic nuclei. 
+The results of the immunohistochemical stains are as follows:
+(1)Cytokeratin 7: positive
+(2)Cytokeratin 20: negative
+(3)Thyroid transcription factor-1: p","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": ""bronchioloalveolar"", ""predominant_subtype"": ""predominantly acinar""}, ""level_4_squamous_details"": {""is_present"": false}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": ""none""}, ""reasoning_trace"": ""The tumor cells reveal hyperchromatic nuclei. Immunohistochemical stains show positivity for cytokeratin 7 and thyroid transcription factor-1, and negativity for cytokeratin 20. This is consistent with metastatic lung adenocarcinoma, with focal bronchioloalveolar feature.""}",Adenocarcinoma (bronchioloalveolar),13.3
+"The specimen submitted consists of seven tissue fragments measuring up to 1.2 x 0.1 x 0.1 cm, in size, fixed in formalin.
+
+Grossly, they are gray and soft.
+
+All for section.
+
+Microscopically, the section shows a picture of squamous cell carcinoma in solid nests infiltrating in the desmoplastic stroma. The neoplastic cells show eosinophilic cytoplasm and nuclear pleomorphism. Immunohistochemical study reveals that the tumor cells are positive for CK5/6, focal positive for CK7 and negative for CK2","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Squamous cell carcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": true, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""Squamous cell carcinoma is diagnosed based on the tumor cells showing eosinophilic cytoplasm and nuclear pleomorphism, and immunohistochemical study revealing positivity for CK5/6, focal positivity for CK7 and negativity for CK20 and TTF-1.""}",Squamous Cell Carcinoma,12.19
+"The specimen submitted consists of two tissue fragments, measuring up to 6.5 x 2.5 x 2 cm. in size, fixed in formalin.
+
+    Grossly, they are ellipically-shaped and congestion lung tissue.
+
+    Representative sections are taken and labeled as: A to C
+
+    Microscopically, it shows bullae with local dilated space, regional collapse and fibrosis. The pleura is thicken with granulation tissue formation. Foci of alveolar space hemorrhage are seen.","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. This is a non-neoplastic lung tissue with bullae, regional collapse, and fibrosis.""}",Negative,9.69
+"The specimen submitted consists of one block of lung tissue composed of right upper and middle lobe, fixed in formalin.
+
+Grossly, the upper and middle lobes of lung are fused together and measure 17.5 x 14 x 5.5 cm in size, and 580 gm in weight. The pleural surface is diffusely congested and coated with blood clot or fibrinous exudate in areas, especially in the apex of the upper lobe. Two bronchi are identified. The lung is opened via the bronchial branches. On cut, the pulmonary parenchyma sho","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described.""}",Negative,8.4
+"The specimen submitted for frozen section consists of two bags labeled as 1) right upper lobe and 2) right lower lobe, respectively, in fresh state.
+
+The bag 1) contains one lung tissue fragment measuring 7.5 x 4.0 x 2.0 cm in size.
+Grossly, it is brown and soft. The &#34;GGO&#34; site is labeled by stitches.
+The bag 2) contains one lung tissue fragment measuring 5.5 x 2.3 x 1.6 cm in size.
+Grossly, it shows one gray and elastic tumor measuring 1.2 x 1.0 x 0.9 cm in size in the subpleural area.
+","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": ""mixed acinar and bronchioloalveolar"", ""predominant_subtype"": ""Well differentiated""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is a well-differentiated adenocarcinoma with mixed acinar and bronchioloalveolar features. The tumor is positive for CK7, TTF-1, and napsin A, and negative for CK20. This is consistent with a primary lung origin. The tumor is also negative for neuroendocrine markers. The tumor is well-differentiated and the patient is stage IA. The tumor is positive for p63 and negative for p40, which is consistent with a lung primary. The tumor is also positive for MUC5AC and negative for MUC2, which is consistent with a lung primary. The tumor is negative for ALK, ROS1, and EGFR mutations. The tumor is positive for p53. The tumor is negative for HER2. The tumor is positive for CDX2. The tumor is negative for GATA3. The tumor is positive for CK7, TTF-1, and napsin A, and negative for CK20. This is consistent with a primary lung origin. The tumor is also negative for neuroendocrine markers. The tumor is well-differentiated and the patient is stage IA. The tumor is positive for p63 and negative for p40, which is consistent with a lung primary. The tumor is also positive for MUC5AC and negative for MUC2, which is consistent with a lung primary. The tumor is negative for ALK, ROS1, and EGFR mutations. The tumor is positive for p53. The tumor is negative for HER2. The tumor is positive for CDX2. The tumor is negative for GATA3. The tumor is positive for CK7, TTF-1, and napsin A, and negative for CK20. This is consistent with a primary lung origin. The tumor is also negative for neuroendocrine markers. The tumor is well-differentiated and the patient is stage IA. The tumor is positive for p63 and negative for p40, which is consistent with a lung primary. The tumor is also positive for MUC5AC and negative for MUC2, which is consistent with a lung primary. The tumor is negative for ALK, ROS1, and EGFR mutations. The tumor is positive for p53. The tumor is negative for HER2. The tumor is positive for CDX2. The tumor is negative for GATA3. The tumor is positive for CK7, TTF-1, and napsin A, and negative for CK20. This is consistent with a primary lung origin. The tumor is also negative for neuroendocrine markers. The tumor is well-differentiated and the patient is stage IA. The tumor is positive for p63 and negative for p40, which is consistent with a lung primary. The tumor is also positive for MUC5AC and negative for MUC2, which is consistent with a lung primary. The tumor is negative for ALK, ROS1, and EGFR mutations. The tumor is positive for p53. The tumor is negative for HER2. The tumor is positive for CDX2. The tumor is negative for GATA3. The tumor is positive for CK7, TTF-1, and napsin A, and negative for CK20. This is consistent with a primary lung origin. The tumor is also negative for neuroendocrine markers. The tumor is well-differentiated and the patient is stage IA. The tumor is positive for p63 and negative for p40, which is consistent with a lung primary. The tumor is also positive for MUC5AC and negative for MUC2, which is consistent with a lung primary. The tumor is negative for ALK, ROS1, and EGFR mutations. The tumor is positive for p53. The tumor is negative for HER2. The tumor is positive for CDX2. The tumor is negative for GATA3. The tumor is positive for CK7, TTF-1, and napsin A, and negative for CK20. This is consistent with a primary lung origin. The tumor is also negative for neuroendocrine markers. The tumor is well-differentiated and the patient is stage IA. The tumor is positive for p63 and negative for p40, which is consistent with a lung primary. The tumor is also positive for MUC5AC and negative for MUC2, which is consistent with a lung",ERROR,72.96
+"The specimen submitted for frozen diagnosis consists of four bags in three sequential specimens labeled as (1) brain tumor, (2) superficial, (3) deep, and (4) tumor, respectively, in fresh state.
+
+The specimen one consists of three tissue fragments measuring up to 0.4 x 0.3 x 0.2 cm. in size. Grossly, they are light brown and soft.
+The bag labeled as &#34;superficial&#34; of second specimen consists of three tissue fragments measuring up to 0.7 x 0.2 x 0.2 cm. in size. Grossly, they are light br","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are positive for TTF-1 and CK7 and negative for CK20 by immunohistochemical study indicating a pulmonary origin of the tumor.""}",Adenocarcinoma,10.64
+"Analysis of KRAS gene mutation
+(1)Tissue origin: Lung adenocarcinoma and metastatic lung adenocarcinoma
+(2)Specimen pathology No.: ®¶¿³Âå°|9704924A and ®¶¿³Âå°|9903083
+(3)Date of specimen collection: 99/04/19
+(4)Review of H&E section(s) of the pathology specimen by the pathologist: Yes
+(5) Result and Interpretation: 
+ °]¹Îªk¤H®¶¿³Âå°| 9704924A Lung adenocarcinoma
+The mutation of codon 12 or 13 of KRAS exon 2 is not detectable. 
+®¶¿³Âå°|9903083: Pituitary tumor, metastatic lung adenocarcinoma
+The","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": ""Not detected"", ""predominant_subtype"": ""Not applicable""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": ""Not applicable""}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": ""Not applicable""}, ""reasoning_trace"": ""The text contains a pathology report with a diagnosis of lung adenocarcinoma. The KRAS mutation analysis is negative. This is consistent with the Tiered Logic. The primary tumor is from the lung, and the text does not mention any other primary tumor. The Adenocarcinoma is the primary focus of the text. The text does not mention any Squamous or Neuroendocrine features. The KRAS mutation analysis is negative. This is consistent with the Tiered Logic.""}",Adenocarcinoma (Not detected),16.03
+"Analysis of EGFR gene mutation
+(1)Tissue origin: Lung adenocarcinoma and metastatic lung adenocarcinoma
+(2)Specimen pathology No.: ®¶¿³Âå°|9704924A and ®¶¿³Âå°|9903083
+(3)Date of specimen collection: 99/04/19
+(4)Review of H&E section(s) of the pathology specimen by the pathologist: Yes
+(5) Result and interpretation: 
+®¶¿³Âå°|9704924A: lung adenocarcinoma
+EGFR exon 18 mutation: Not detectable
+EGFR exon 19 mutation: Not detectable
+EGFR exon 20 mutation: Not detectable
+EGFR exon 21 mutation: Not de","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""Lung Adenocarcinoma is the primary tumor. EGFR mutation testing was performed. However, no mutation was detected. This is a negative result. The text does not explicitly state the word 'adenocarcinoma', but the pathology report is consistent with this diagnosis.""}",Adenocarcinoma,12.82
+"The specimen submitted consists of four tissue fragments, measuring up to 0.2 x 0.2 x 0.2 cm. in size, fixed in formalin.
+
+    Grossly, they are tan and soft.
+
+    All for section.
+
+    Microscopically, serial section shows fibrinous exudate and small fragments of bronchial tissue with marked lymphoplasma cells infiltration. Acid-fast stain is negative.
+
+Ref.
+M02-00017   Sputum, Benign non-specific cellular change
+M02-00023   Sputum, Benign non-specific cellular change
+M02-00022   Sputum, Benign","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. Non-specific cellular changes are noted in the sputum and bronchial brushing, but no definitive diagnosis is made.""}",Negative,9.99
+"The specimen submitted consists of two tissue fragments, measuring up to 1.2 x 0.1 x 0.1 cm. in size, fixed in formalin.
+
+Grossly, they are grayish and soft.
+
+All for section.
+
+Microscopically, it shows liver parenchyma infiltrated by atypical glands with extracellular mucin production and desmoplastic change. The infiltrating glands are composed of mucin-productive columnar cells with mildly pleomorphic nuclei. Small single nucleolus is occasionally found. No pulmonary tissue can be identified ","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": ""mucinous"", ""predominant_subtype"": ""not applicable""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": ""not applicable""}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": ""not applicable""}, ""reasoning_trace"": ""The tumor cells are diffusely strong positive for CK7, scant weak positive for CK20 and negative for TTF-1. This is consistent with a primary adenocarcinoma of the liver. The tumor cells are negative for TTF-1, which is a marker for lung primary. The tumor cells are positive for CK7, which is a marker for both lung and liver primary. The tumor cells are positive for CK20, which is a marker for colon primary. However, the tumor cells are only weakly positive for CK20, which is less consistent with a primary colon primary. The tumor cells are negative for TTF-1, which is a marker for lung primary. The tumor cells are positive for CK7, which is a marker for both lung and liver primary. This is consistent with a primary adenocarcinoma of the liver.""}",Adenocarcinoma (mucinous),21.15
+"The specimen submitted consists of one tissue fragment measuring 0.1 x 0.1 x 0.1 cm. in size, fixed in formalin.
+
+    Grossly, it is tan and soft.
+
+    All for section.
+
+    Microscopically, the specimen only contain muscle tissue and some fibroadipose tissue. No lung tissue is included.","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'muscle tissue and some fibroadipose tissue', without any tumor or malignancy.""}",Negative,9.88
+"The specimen consists of six tissue fragments measuring up to 0.4x0.2x0.2 cm in size, fixed in formalin.
+
+Grossly, they are grey to brown and soft.
+
+All for section.
+
+Microscopically, it shows few atypical glands in the bronchial wall. The epithelial cells of atypical glands reveal mild nuclear atypia. Some unremarkable lung tissue is seen. No granulomatous inflammation is found. Rebiopsy is suggested.
+","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The text describes a biopsy of the lung with atypical glands showing mild nuclear atypia. This is consistent with a lung primary malignancy, likely non-small cell lung cancer. The level 3 adenocarcinoma details are not specified, but the level 2 primary type is correctly identified as non-small cell lung cancer.""}",Non-Small Cell Lung Cancer,12.85
+"The specimen is submitted in two bags labeled as 1) tumor and 2) bone marrow, fixed in formalin.
+    
+The bag 1). contains more than ten tissue fragments measuring up to 0.4 x 0.3 x 0.3 cm. in size. Grossly, they are brown and elastic.
+The bag 2). contains five tissue fragments measuring up to 0.3 x 0.3 x 0.3 cm. in size. Grossly, they are white and firm.
+
+All for section and labeled as:
+A: tumor    B: bone marrow (decalcified)
+
+Microscopically, it shows a picture of metastatic adenocarcinoma ar","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is described as metastatic adenocarcinoma arranged in papillary pattern. The tumor cells are positive for TTF-1 and napsin-A by immunohistochemistry. The results are consistent with metastatic lung adenocarcinoma.""}",Adenocarcinoma,12.15
+"The specimen submitted consists of 4 tissue fragments, measuring up to 0.3 x 0.2 x 0.2 cm. in size fixed in formalin.
+
+Grossly, they are gray and soft.
+ 
+All for section. 
+
+Microscopically, it shows metastatic adenocarcinoma composed of nests of tumor cells with pleomorphic nuclei and abundant cytoplasm on the pleural surface. Foci of pleural thickening with fibrosis and some tumor cells nests within the thicken fibrotic tissue. Mucin stain reveals positive staining of cytoplasm within the some ","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are positive for TTF-1 and CK7, but negative for CK20. This is consistent with a lung primary. The tumor cells are also positive for mucin stain, which is consistent with an adenocarcinoma. The tumor cells are pleomorphic and have abundant cytoplasm, which is consistent with a lung primary. The tumor cells are also present in the pleural thickening with fibrosis, which is consistent with a lung primary.""}",Non-Small Cell Lung Cancer,14.81
+"The specimen consists of one tissue fragment, measuring 1.5 x 1.3 x 0.4 cm in size, fixed in formalin.
+
+Grossly, it is grayish and firm.
+
+All for section after bisection.
+
+Microscopically, it shows a picture of metastatic adenocarcinoma arranged in solid nest, micropapillary and glandular patterns in fibrous and inflammatory background. No normal lymph node structure is seen. The carcinoma cells have prominent nucleoli and eosinophilic cytoplasm. The tumor cells are focally positive for mucin by","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": ""solid""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are positive for cytokeratin 7, thyroid transcription factor 1, and napsin A but negative for cytokeratin 20 and estrogen receptor. The tumor cells are focally positive for mucin by mucicarmine stain. This is consistent with a lung primary, specifically adenocarcinoma.""}",Non-Small Cell Lung Cancer,13.05
+"The specimen submitted for frozen diagnosis consists of one tissue fragment measuring 0.6 x 0.2 x 0.1 cm. in size, in fresh state.
+
+Grossly, it is red and firm.
+
+All for section and labeled as: Fs and Fc
+
+Microscopically, the sections show a picture of metastatic adenocarcinoma in bone composed of some individuals and small clusters of tumor cells in desmoplastic background in bone. Marked nuclear atypia of tumor cells is present. Focal necrosis of bone is present.
+
+Frozen diagnosis: Metastatic ","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer (NSCLC)""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""Metastatic adenocarcinoma in bone, with marked nuclear atypia of tumor cells, is consistent with metastatic lung adenocarcinoma.""}",Non-Small Cell Lung Cancer (NSCLC),10.98
+"The specimen submitted consists of two bags, labeled as (1) and (2) left upper lobe, respectively, fixed in formalin. The bag (1) consists of more than ten tissue fragments, measuring up to 4.5 x 3.5 x 1.2 cm in size and weighing 71.8 gm in weight, totally. Grossly, they are yellow to white and fibrotic membranous fragments. Some blood clots are also included. The bag (2) consists of one tissue fragment, measuring 4.5 x 3.5 x 1.3 cm in size and weighing 11.0 gm, in weight. Grossly, it is a fragm","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'empyema'.""}",Negative,9.14
+"The specimen submitted consists of more than fifty tissue fragments, measuring up to 3.3 x 2.2 x 0.7 cm. in size, fixed in formalin.
+
+Grossly, they are dark brown and hard.
+
+Representative sections are taken and labeled as: A to C (decalcified)
+
+Microscopically, it shows a picture of metastatic adenocarcinoma arranged in glandular structures and infiltrating pattern, associated with bone destruction and new bone formation. The carcinoma cells display moderate nuclear pleomorphism. 
+
+Reference:
+W","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer (NSCLC)""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""Metastatic adenocarcinoma is consistent with lung primary, but no specific variant is identified.  The tumor is moderately pleomorphic, but no neuroendocrine features are seen.""}",Non-Small Cell Lung Cancer (NSCLC),11.2
+"The specimen submitted consists of one 28-gestation-week female fetus and one placenta connecting to the fetus by the umbilical cord, in fresh state.
+
+Grossly, the female fetus weighs 571.6 gm. in weight (mean: 1020¡Ó340 gm.)1 and body length measures 35.2 cm. in length (mean: 36.0¡Ó 4.2 cm.)1. The circumferences of the head, chest wall, and abdomen are 21.6 cm., 19.8 cm., and 19.7 cm., respectively. It is small for gestational age mildly. The whole skin is intact with erythematous change. No ma","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. This is a normal fetal autopsy.""}",Negative,9.36
+"The specimen submitted for frozen section consists of one tissue fragment, measuring 3 x 1 x 1 cm. in size, in fresh state.
+
+    Grossly, it is tan to brown and soft with mucus material coating.
+
+    All for section and labeled as A and B.
+
+    Microscopically, it shows a picture of metastatic adenocarcinoma in the cerebellum. The carcinoma is arranged in papillary and glandular patterns. Some tumor cells are positive for mucin by mucicarmine stain. The immunohistochemical study reveals the carc","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": ""papillary"", ""predominant_subtype"": ""glandular""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is described as metastatic adenocarcinoma in the cerebellum. The carcinoma is arranged in papillary and glandular patterns. The immunohistochemical study reveals the carcinoma cells have positive nuclear staining for thyroid transcription factor-1. This supports the adenocarcinoma having the origin from lungs.""}",Adenocarcinoma (papillary),13.22
+"The specimen consists of two tissue fragments measuring up to 0.5x0.1x0.1 cm in size, fixed in formalin.
+
+Grossly, they are gray, soft and cord-like
+
+All for section.
+
+Microscopically, it shows a picture of adenocarcinoma in the bone tissue. The adenocarcinoma is arranged in solid nests, cell cords, and papillary structures. The tumor cells reveal mild nuclear atypia.
+
+The results of the immunostaining are as follows:
+(1)Cytokeratin 7: positive
+(2)Cytokeratin 20: negative
+(3)Thyroid transcriptio","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": ""solid""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells reveal mild nuclear atypia. The results of the immunostaining are as follows: (1)Cytokeratin 7: positive (2)Cytokeratin 20: negative (3)Thyroid transcription factor 1: focally positive (4)Napsin A: positive. According to the above features, invasive or metastatic lung adenocarcinoma is diagnosed.""}",Adenocarcinoma (solid),14.41
+"The specimen submitted consists of 2 bags labeled as (1) and (2), respectively fixed in formalin.
+
+The specimen labeled as (1) consists of one tissue fragment measuring 2.0 x 1.5 x 0.5 cm in size. Grossly, it is gray and soft.
+The specimen labeled as (2) consists of one tissue fragment measuring 1.6 x 0.6 x 0.3 cm in size. Grossly, it is gray and soft.
+
+All for section and labeled as:
+A: (1);   B: (2)
+
+Microscopically, the section A shows lung tissue with no normal architecture. Variably sized c","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'honeycomb lung' and 'usual interstitial pneumonia', which are non-malignant lung pathologies.""}",Negative,10.38
+"The specimen consists of four bags labeled as 1) mediastinal mass, 2) right upper lobe, 3) right upper lobe bronchus with tumor, and 4) right upper lobe bronchus resection margin, fixed in formalin.
+The bag 1) labeled as &#34;mediastinal mass&#34; consists of one tissue fragment measuring 13 x 9 x 8.5 cm in size and weighing 454 gm in weight.
+Grossly, it is a well-defined, elastic to firm, tan to brown mass with bosselated external surface. On serial cutting, the cut surfaces are homogeneously t","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Leiomyosarcoma""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is a spindle cell sarcoma, morphologically similar to leiomyosarcoma, with no evidence of adenocarcinoma, squamous cell carcinoma, or neuroendocrine features. The tumor is metastatic from the uterus, as per the previous pathology (WF14-08906).""}",Leiomyosarcoma,13.0
+"The specimen submitted consists of three tissue fragments, measuring up to 0.2 x 0.1 x 0.1 cm. in size, fixed in formalin.
+
+    Grossly, they are brown and soft.
+
+    All for section.
+
+    Microscopically, it shows small fragments of irregular tumor nests in a fibrotic background. The tumor cells are polygonal with distinct cell border and hyperchromatic nuclei. Squamous cell carcinoma is suggested.  
+
+   The histomorphology can not differentiate pulmonary origin from thymic origin squamous cell","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Squamous cell carcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": true, ""subtype"": ""not specified""}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""Squamous cell carcinoma is suggested by the histomorphology. The tumor cells are polygonal with distinct cell border and hyperchromatic nuclei. The immunohistochemical stain is positive for CK5/6, focally positive for p63 and negative for TTF-1, synaptophysin, chromogranin and CD5. The result supports the diagnosis of squamous cell carcinoma. Please correlate clinically for the primary site.""}",Squamous Cell Carcinoma (not specified),14.69
+"The specimen is submitted in two bags labeled as 1) and 2), respectively, fixed in formalin.
+    
+    The bag 1). contains three tissue fragments measuring up to 0.3 x 0.2 x 0.1 cm. in size. Grossly, they are gray and soft.
+    The bag 2). contains five tissue fragments measuring up to 1.0 x 0.6 x 0.4 cm. in size. Grossly, they are gray and soft.
+
+   All for section and labeled as:
+    A: tissue in bag 1        B: tissue in bag 2
+
+    Microscopically, it shows a picture of atherosclerosis with h","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'lymphoid hyperplasia'.""}",Negative,9.22
+"The specimen submitted consists of two tissue fragments, measuring up to 1.7 x 0.1 x0.1 cm. in size, fixed in formalin.
+
+Grossly, they are grayish  to brown and soft.
+
+All for section and labeled as A and B.
+
+Microscopically, it shows a picture of adenocarcinoma mainly arranged in solid nests. Glanular lumina are occasionally seen. The tumor cells reveals marked nuclear atypia. Mucin is demonstrated in tumor cells by mucicarmine stain. The immunohistochemical stains show the tumor cells are posi","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": ""solid""}, ""level_4_squamous_details"": {""is_present"": false}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are positive for cytokeratin 7, focally positive for thyroid transcription factor 1 and napsin A. Cytokeratin 20 is negative. This is consistent with a primary lung adenocarcinoma.""}",Adenocarcinoma (solid),11.59
+"The specimen submitted for frozen section consists of one tissue fragment measuring 1.2 x 1 x 1 cm in size, in fresh state.
+
+Grossly, it is white and firm.
+
+All for section after bisection.
+
+Microscopically, it shows a picture of metastatic carcinoma arranged in solid nests in a fibrotic background. The tumor cells reveal marked nuclear pleomorphism. Glandular lumen-like structures are rarely seen. Scanty mucin is demonstrated in the glandular lumen-like structures by mucicarmine stain. By immun","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": ""Poorly differentiated""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells reveal marked nuclear pleomorphism. Glandular lumen-like structures are rarely seen. Scanty mucin is demonstrated in the glandular lumen-like structures by mucicarmine stain. By immunohistochemistry, the tumor cells are positive for thyroid transcription factor 1 and napsin A but negative for p40 and cytokeratin 5/6. This is consistent with metastatic poorly differentiated lung adenocarcinoma.""}",Non-Small Cell Lung Cancer,15.1
+"The specimen submitted consists of three tissue fragments, measuring up to 0.2 x 0.1 x 0.1 cm. in size, fixed in formalin.
+
+    Grossly, they are brown and soft.
+
+    All for section.
+
+    Microscopically, it shows skin, skeletal muscle, and some blood clots with fibrinous exudate only. No lung tissue is found.","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'skin, skeletal muscle, and some blood clots with fibrinous exudate only'. No lung tissue is found.""}",Negative,10.35
+"The specimen submitted for frozen section consists of one tissue fragment measuring 1.2 x 0.1 x 0.1 cm in size, in fresh state.
+
+Grossly, it is tan and soft.
+
+All for section.
+
+Microscopically, the section shows a picture of adenocarcinoma arranged in cribriform, glandular and solid patterns. Mucinous cytoplasm is commonly found in the tumor cells. Necrosis is focally found. Calcified psammoma bodies are occasionslly seen. By immunohistochemical stains, the tumor cells are strongly positive for ","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": ""solid""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are strongly positive for cytokeratin 7 and weakly positive for cytokeratin 20. They are positive for thyroid transcription factor 1 and napsin A. This is consistent with a primary lung adenocarcinoma.""}",Non-Small Cell Lung Cancer,12.01
+"The specimen consists of five tissue fragments, measuring up to 0.3x0.2x0.2 cm. in size, fixed in formalin.
+
+Grossly, they are brown and soft.
+
+All for section.
+
+Microscopically, it shows a picture of atypical cell clusters composed of cells with prominent nucleoli and high nucleus to cytoplasm ratio. Some glandudar lumen-like spaces are seen. Mucin is rarely found in the spaces in mucicarmine stain. 
+The results of the immunohistochemical stainng are as follows:
+(1)Cytokeratin 7: positive
+(2)Cy","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are positive for cytokeratin 7 and napsin-A, and negative for calretinin. This is consistent with a lung adenocarcinoma. The tumor cells are also positive for thyroid transcription factor 1, which is a marker for lung adenocarcinoma. The tumor cells are negative for cytokeratin 20, which is a marker for enteric adenocarcinoma. The tumor cells are also negative for mucicarmine stain, which is a marker for mucinous adenocarcinoma. This is consistent with a non-mucinous adenocarcinoma. The tumor cells are positive for thyroid transcription factor 1, which is a marker for lung adenocarcinoma. The tumor cells are also positive for napsin-A, which is a marker for lung adenocarcinoma. The tumor cells are negative for calretinin, which is a marker for mesothelioma. This is consistent with a lung adenocarcinoma.""}",Adenocarcinoma,22.99
+"The specimen submitted consists of six bags labeled as (1) pancreas, (2) spleen, (3) 8A, (4) 9, (5) 10, and (6) 11P, respectively, fixed in formalin.
+
+The bag (1) consists of a portion of pancreas measuring 10.5 x 3.5 x 3.2 cm. in size and weighing 46.2 gm. in weight. Grossly, it is brownish and elastic and is in normal shape. A dark brown area measuring 1.1 x 0.8 x 0.5 cm. in size at the superior surface of pancreas 0.6 cm. from the section margin of the pancreas is noted. On cut, it is dark br","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": ""Poorly differentiated"", ""predominant_subtype"": ""Solid""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are spindle or polygonal shape with enlarged nuclei and prominent nucleoli. The tumor cells in the pancreas and the peri-pancreatic lymph nodes are positive for CK7 and TTF-1 by immunohistochemical study indicating metastatic adenocarcinoma of pulmonary origin.""}",Adenocarcinoma (Poorly differentiated),13.36
+"The specimen submitted consists of three tissue fragments measuring up to 1 x 0.4 x 0.3 cm. in size, in fresh state. 
+
+Grossly, they are blakish gray and soft to rubbery.
+
+All for section and labeled as:  Fs: frozen section; Fc: frozen control
+
+Microscopically, it shows a picture of granulomatous lymphadenitis with multiple small non-necrotizing granulomas composed of spindled and multinucleated histiocytes. The usual nodal architecture has been replaced by granulomas. Acid fast stain and PAS st","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. Non-thoracic primary.""}",Negative,8.82
+"The specimen submitted consists of five tissue fragments measuring up to 0.5 x 0.1 x 0.1 cm in size fixed in formalin.
+
+Grossly, they are gray and soft.
+
+All for section.
+
+Microscopically, it shows densely fibrotic soft tissues infiltrated by carcinoma nests arranged in irregular thin strands or nests. The tumor cells have high N/C ratio, pleomorphic and hyperchromatic nuclei and single cell necrosis. There is no obvious squamoid or glandular differentiation. Immunohistochemically, TTF-1, napsin","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells have high N/C ratio, pleomorphic and hyperchromatic nuclei and single cell necrosis. There is no obvious squamoid or glandular differentiation. Immunohistochemically, TTF-1, napsinA, p63 and CK5/6 stains are all negative. A poorly differentiated carcinoma is considered. Perineural invasion is seen.""}",Non-Small Cell Lung Cancer,13.61
+"The specimen submitted consists of one tissue fragment, measuring 1.5 x 1.3 x 0.6 cm. in size, and fixed in formalin.
+
+Grossly, it is brown and soft.
+
+All for section after bisection.
+
+Microscopically, it shows a picture of honeycomb lung with interstitial fibrosis displaying focal irregularly dilated alveolar spaces with honeycomb appearance and destructive architecture. The alveolar septa shows focal active and old fibrosis, focal thickening, interstitial chronic inflammatory cells and eosinop","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No malignancy is described. The text only mentions 'honeycomb lung' and 'usual interstitial pneumonia', which are non-malignant lung pathologies.""}",Negative,10.17
+"The specimen submitted two bags labeled as 1) right lower lobe tumor and 2) parietal pleura, fixed in formalin.
+The bag 1) consists of one tissue fragment, measuring 7 x 3.6 x 1.6 cm in size. 
+Grossly, it is a piece of lung tissue. The pleural surface is white and smooth. On cut, there is one elastic and homogenously tan-colored tumor measuring 3.6 x 3 x 1.6 cm in size in the lung parenchyma. Neither necrosis nor hemorrhage is seen. The tumor is 0.5 cm away from the resection margin. 
+The bag 2)","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Synovial Sarcoma""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is a synovial sarcoma, not an adenocarcinoma or squamous cell carcinoma. It is not a neuroendocrine tumor. The tumor is a primary sarcoma, not a metastasis from another primary tumor.""}",Synovial Sarcoma,12.06
+"
+The specimen submitted consists of a right upper lobe lung and three separate bags, labeled as 1) paratracheal, 2) down and 3) lung, respectively, fixed in formalin.
+
+Grossly, the lung measures 15 x 8 x 5 cm in size and 182.8 gm in weight. On cut, there is a white, soft tumor with central necrosis is noted around the apical and anterior area of the lung. It is 0.2 cm away from the surgical margin. The overlying surface shows rough and adhered with adipose tissue on it. The lung elsewhere shows ","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": ""metastatic"", ""predominant_subtype"": ""glandular and cribriform""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is described as an adenocarcinoma with glandular and cribriform pattern. It is metastatic from the rectum. The tumor invades the pleura and bronchial wall. The pleura and bronchial surgical margins are free. The tumor is negative for CK7 and positive for CK20. This is consistent with a metastatic rectal adenocarcinoma.""}",Adenocarcinoma (metastatic),14.96
+"
+The specimen is submitted in five bottles, labeled as 1) lymph node, left lower lobe,
+2) lymph node, left lower lobe ligament, 3) lymph node, AP window, and 4) unlabeled, and 5) left lower lobe of lung, respectively, fixed in formalin.
+The bottle 1) contains two tissue fragments, measuring up to 0.8 x 0.8 x 0.3 cm in size. They are bluish brown and elastic.
+The bottle 2) contains one tissue fragment, measuring 1.3 x 0.6 x 0.5 cm in size.
+It is bluish brown and elastic.
+The bottle 3) contains on","{""level_1_malignancy_found"": true, 
+""level_2_primary_types"": [""Adenocarcinoma""], 
+""level_3_adenocarcinoma_details"": {""is_present"": true, 
+""specific_variant"": ""Not specified"", 
+""predominant_subtype"": ""Not specified""}, 
+""level_4_squamous_details"": {""is_present"": false, 
+""subtype"": ""Not applicable""}, 
+""level_5_6_neuroendocrine_details"": {""is_present"": false, 
+""specific_type"": ""Not applicable""}, 
+""reasoning_trace"": ""Adenocarcinoma is the primary tumor type. 
+The tumor is moderately differentiated and is positive for CK20 
+and negative for CK7 and TTF-1. The morphology and 
+immunophenotype are consistent with a metastatic adenocarcinoma 
+from colon cancer. The tumor is negative for neuroendocrine 
+markers.""}",ERROR,14.98
+"The specimen submitted for frozen section consists of one wedge resected lung tissue fragment, measuring 9.6 x 4.1 x 3.2 cm. in size, in fresh state.
+
+Grossly, it shows an ill-defined, gray, and elastic tumor measuring 1.4 x 1.0 x 0.5 cm in size.
+
+Representative sections are taken and labeled as:
+A: frozen control
+B to E: frozen residual.
+
+MICROSCOPIC EVALUATION
+Tumor Size: Greatest dimension: 1.4 cm; Additional dimensions: 1.0x0.5 cm 
+Tumor Focality: Unifocal
+Histologic Type:  Adenocarcinoma, l","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": ""predominantly lepidic"", ""predominant_subtype"": ""predominantly lepidic""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": ""null""}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": ""null""}, ""reasoning_trace"": ""The tumor is described as an adenocarcinoma, predominantly lepidic, with immunohistochemical staining showing positivity for CK7 and TTF-1, and negativity for CK20. This is consistent with a primary lung adenocarcinoma.""}",Adenocarcinoma (predominantly lepidic),13.14
+"The specimen submitted consists of one tissue fragment, measuring 0.5 x 0.1 x 0.1 cm. in size, fixed in formalin.
+
+    Grossly, it is white and soft.
+
+    All for section.
+
+    Microscopically, the section shows mild chronic inflammation in the lung parenchyma. No granulomatous inflammation or malignancy is seen.","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. Non-thoracic primary is suspected.""}",Negative,8.87
+"The specimen submitted contains four tissue fragments, measuring up to 1.5 x 0.9 x 0.4 cm in size, fixed in formalin
+
+Grossly, they are reddish brown and soft. 
+
+All for section 
+
+Microscopically, it shows metastatic adenocarcinoma composed of pleomorphic tumor cells arranged in solid nests and papillary structure within the desmoplastic stroma among the destructive bone trabeculae. The detailed characterization of this tumor would be mentioned within the subsequent report of WFH08-2492.
+
+Refere","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""Metastatic adenocarcinoma is identified in the bone tissue. The tumor is described as pleomorphic, with solid nests and papillary structures. The detailed characterization of the tumor is mentioned in the subsequent report of WFH08-2492. This is consistent with the Tiered Logic, as it is a metastatic adenocarcinoma.""}",Adenocarcinoma,13.29
+"The specimen submitted contains more than 10 tissue fragment, measuring up to 2.6 x 2.0 x 0.7 cm in size, fixed in formalin.
+
+Grossly, they are brown to red and elastic to soft. Some bone chips and skeletal muscle are seen. 
+
+All for section and labeled as: A, B, C, D, E and F
+
+Microscopically, it shows metastatic adenocarcinoma composed of tumor cells arranged in solid nests and abortive glands seen. These tumor cells destruct the trabecular bone and extend into the regional skeletal muscle. Mu","{""level_1_malignancy_found"": true, 
+""level_2_primary_types"": [""Adenocarcinoma""], 
+""level_3_adenocarcinoma_details"": {""is_present"": true, 
+""specific_variant"": null, ""predominant_subtype"": null}, 
+""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, 
+""level_5_6_neuroendocrine_details"": {""is_present"": false, 
+""specific_type"": null}, 
+""reasoning_trace"": ""The tumor cells are arranged in solid nests 
+and abortive glands, with positive staining for TTF-1 and 
+cytokeratin 7, but negative for cytokeratin 20. This is 
+consistent with a metastatic adenocarcinoma of lung origin.""}",ERROR,12.83
+"The specimen submitted consists of three tissue fragments, measuring up to 0.3 x 0.2 x 0.2 cm. in size, fixed in formalin.
+
+    Grossly, they are grayish and soft.
+
+    All for section.
+
+    Microscopically, it shows fibrotic tissue fragments with chronic inflammation, infiltrated by some moderate pleomorphic cells. These cells have distinct nucleoli and eosinophilic cytoplasm, arranged in solid growth pattern. No definite pulmonary parenchyma is found in the multilevel H&E sections. Immunohisto","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": ""poorly-differentiated"", ""predominant_subtype"": ""solid""}, ""level_4_squamous_details"": {""is_present"": false}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": ""null""}, ""reasoning_trace"": ""The tumor cells are positive for CK7 and TTF-1, and negative for CK20 and p63. This is consistent with a lung primary, and the morphology is consistent with a poorly-differentiated adenocarcinoma.""}",Non-Small Cell Lung Cancer,11.83
+"The specimen consists of more than ten tissue fragments measuring 5x2.7x1 cm in size, fixed in formalin.
+
+Grossly, they are brown and elastic to hard.
+
+Representative sections are taken and labeled as A to E (decalcification)
+Microscopically, the bone shows a picture of metastatic poorly differentiated adenocarcinoma arranged in solid nest, single cell, and gland-like patterns in the fibrotic stroma. The tumor cells display marked nuclear pleomorphism. The immunohistochemical stain displays the ","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": ""Poorly differentiated""}, ""level_4_squamous_details"": {""is_present"": false}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells display marked nuclear pleomorphism. The immunohistochemical stain displays the tumor cells are strongly positive for cytokeratin and thyroid transcription factor-1 (TTF-1). TTF-1 positivity is noted in lung adenocarcinomas and thyroid carcinomas. According to the above features, metastatic poorly differentiated lung adenocarcinoma is considered first. Please check the lung first.""}",Adenocarcinoma (Poorly differentiated),14.16
+"
+The specimen submitted consists of 2 tissue fragments, measuring up to 0.1 x 0.1 x 0.1 cm. in size fixed in formalin.
+
+Grossly, they are brown and soft.
+ 
+All for section. 
+
+Microscopically, it shows small pieces of unremarkable bronchial epithelium. No lung parenchyma is included. No granuloma is seen. No malignancy is seen.
+","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'unremarkable bronchial epithelium', without any specific diagnosis.""}",Negative,9.68
+"The specimen submitted consists of more than ten tissue fragments, measuring up to 1.7 x 0.7 x 0.5 cm in size, fixed in formalin.
+
+Grossly, they are gray to brown and firm.
+
+All for section and labeled as: A and B
+
+Microscopically, it shows a picture of metastatic small cell carcinoma arranged in sheet-like pattern infiltrating in bladder wall. The carcinoma is composed of small round cells with hyperchromatic nuclei and scant cytoplasm. The carcinoma invades muscular tissue.   
+
+
+Reference:
+WF0","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": true, ""specific_type"": ""Small Cell Carcinoma""}, ""reasoning_trace"": ""Small cell carcinoma is identified in the sacrum, consistent with metastatic disease from a primary lung cancer.  Adenocarcinoma is excluded.  Squamous cell carcinoma is also excluded.  The tumor is characterized as small cell carcinoma, consistent with a neuroendocrine origin.""}",Small Cell Carcinoma,12.48
+"The specimen submitted consists of five bags labeled as (1) whole right lung with whole parietal pleura, pericardium and diaphragm, (2) group 3 lymph node, (3) group 7 lymph node, (4) group 10 lymph node and (5) group 3a lymph node, respectively, fixed in formalin.
+
+The bag (1) consists of one tissue mass measuring 22.5 x 16.8 x 14.8 cm in size, and weighing 2495 gm totally. Grossly, it shows a gray and soft tumor. On cut, the tumor encases right lung with nodular pushing border, and the viscera","{""level_1_malignancy_found"": true, 
+""level_2_primary_types"": [""Mesothelioma""], 
+""level_3_adenocarcinoma_details"": {""is_present"": false, 
+""specific_variant"": null, ""predominant_subtype"": null}, 
+""level_4_squamous_details"": {""is_present"": false, 
+""subtype"": null}, 
+""level_5_6_neuroendocrine_details"": {""is_present"": false, 
+""specific_type"": null}, 
+""reasoning_trace"": ""The tumor is a mesothelioma, so it is not 
+an adenocarcinoma or squamous cell carcinoma. The tumor is 
+extensive, involving the pleura, pericardium, and diaphragm, with 
+invasion of the lung and hilar fat. The tumor is positive for 
+CK5/6, consistent with a mesothelial origin.""}",ERROR,14.72
+"The specimen submitted consists of two tissue fragments, measuring up to 0.2 x 0.2 x 0.2 cm. in size, fixed in formalin.
+
+    Grossly, it is grayish and soft with blood clots.
+
+    All for section.
+
+    Microscopically, it shows two pieces of reactive bronchial epithelium, underlying unremarkable lung parenchyma and one blood clots.","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'reactive bronchial epithelium', which is a normal finding.""}",Negative,9.72
+"The specimen submitted consists of multiple tissue fragments, measuring up to 1.6 x 1.0 x 0.6 cm in size, fixed in formalin.
+
+Grossly, they are gray and soft.
+
+All for section and labeled as: A and B.
+
+Microscopically, it shows a picture of metastatic adenocarcinoma. By immunohistochemistry, the tumor cells are immunoreactive to TTF-1, napsin A and CK7 (performed in section WH1905426), compatible with a metastatic adenocarcinoma of lung origin.
+
+
+Reference :
+WH1905426 - Brain, cerebellar, intrao","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are immunoreactive to TTF-1, napsin A and CK7, compatible with a metastatic adenocarcinoma of lung origin.""}",Non-Small Cell Lung Cancer,10.87
+"The specimen submitted consists of two bags labeled as (1) tumor and (2) disc, respectively, fixed in formalin.
+
+The bag (1) contains three tissue fragments measuring up to 1.2 x 0.5 x 0.4 cm. in size. Grossly, they are tan gray and rubbery.
+The bag (2) contains more than ten tissue fragments measuring up to 1.6 x 1 x 0.4 cm. in size. Grossly, they are gray and elastic to hard.
+
+All for section and labeled as:
+A: tumor      B1-3: disc (decalcified)
+
+Microscopically, section A shows a picture of ","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is described as moderately differentiated adenocarcinoma. The text does not specify a particular variant, but the tumor is not described as squamous or neuroendocrine. The tumor is metastatic to the lung, but the primary tumor is not specified. The tumor is described as necrotic with residual fibrous tissue, which is consistent with a moderately differentiated adenocarcinoma.""}",Adenocarcinoma,14.18
+"The specimen submitted consists of two tissue fragments, measuring up to 0.5 x 0.1 x 0.1 cm. in size, fixed in formalin.
+
+    Grossly, they are grayish and soft.
+
+    All for section.
+
+    Microscopically, it shows adipose tissues, skeletal muscles and a small focus of lymphocyte aggregation in the soft tissue. Focal mesothelial lining is seen. There is no evidence of malignancy. There is no lung tissue or lymph node tissue included.
+","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'mesothelial lining' without a definitive diagnosis.""}",Negative,9.36
+"The specimen submitted consists of three tissue fragments, measuring up to 0.2 x 0.1 x 0.1 cm. in size, fixed in formalin.
+
+    Grossly, they are grayish and soft.
+
+    All for section.
+
+    Microscopically, it shows a picture of benign bronchial mucosa fragments with no evidence of malignancy.
+
+Reference:
+WF11-13556Soft tissue, lableld as hilum of right lung, echo-guided biopsy, no evidence of malignancy, see comment","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. This is a benign bronchial mucosa fragment.""}",Negative,9.05
+"The specimen submitted consists of one tissue fragment, measuring 0.2 x 0.2 x 0.2 cm in size, fixed in formalin.
+
+Grossly, it is gray and soft.
+
+All for section.
+
+Microscopically, it shows a picture of focal aggregation of crushed tumor cells in the lamina propira of gastric mucosa. The tumor cells are crushed and the morphology cannot be cleared identified. The tumor cells are positive for TTF-1 and synaptophysin, and weakly positive for chromogranin, and negative for cytokeratin. According to ","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": true, ""specific_type"": ""small cell carcinoma""}, ""reasoning_trace"": ""The tumor cells are positive for TTF-1 and synaptophysin, and weakly positive for chromogranin, and negative for cytokeratin. According to the patient's history, a metastatic small cell carcinoma of pulmonary origin in gastric mucosa is suggested.""}",small cell carcinoma,12.24
+"The specimen consists of two bags labeled as 1) tumor and 2), fixed in formalin.
+
+The bag 1) consists of more than ten tissue fragments measuring up to 1.7x0.5x0.4 cm in size. Grossly, they are gray to brown and elastic. 
+The bag 2) consists of more than ten tissue fragments measuring up to 4.5x1.3x0.6 cm in size. Grossly, they are gray to brown and elastic to firm.
+
+Representative sections are taken and labeled as:
+A: bag 1) tumor (all for section)
+B1-3: bag 2) (decalcification)
+
+Microscopicall","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are positive for cytokeratin 7 and thyroid transcription factor-1 but negative for cytokeratin 20. This is consistent with metastatic lung adenocarcinoma.""}",Adenocarcinoma,11.31
+"The specimen submitted consists of one tissue fragment measuring 2.2x0.8x0.8 cm in size, fixed in formalin.
+
+Grossly, it is a piece of elliptically-shaped skin with an ill-defined, white and firm nodule in the dermis.
+
+All for sections by bisection.
+
+Microscopically, it shows a picture of a poorly differentiated malignant tumor involving the dermis and subcutis. The tumor cells are ovoid in shape. They have prominent nucleoli and scanty pale cytoplasm. Cohesive appearance is focally seen. Angiol","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are ovoid in shape. They have prominent nucleoli and scanty pale cytoplasm. Cohesive appearance is focally seen. Angiolymphatic tumor emboli are commonly noted. The tumor cells are negative for mucin in mucicarmine stain. The immunohistochemical stain reveals the tumor cells are weakly positive for cytokeratin (AE1/AE3). Scanty tumor cells are positive of thyroid transcription factor 1. Cytokeratin 7, HMB45, epithelial membrane antigen and common leukocyte antigen are negative. The morphology of the tumor cells is similar to the previous metastatic carcinoma in the spine (Reference WFH09-5242). According to these findings, metastatic lung adenocarcinoma with dedifferentiation is favored.""}",Adenocarcinoma,20.08
+"The specimen submitted for frozen diagnosis consists of three tissue fragments, measuring up to 1.2 x 0.8 x 0.4 cm in size, in fresh state.
+
+Grossly, they are gray and elastic.
+
+All for section.
+
+Microscopically, the section shows a picture of metastatic adenocarcinoma arranged in cell cords, solid nests, glands, and single cells in a fibrotic stroma. The tumor cells reveal marked nuclear atypia. The immunohistochemical stains show the tumor cells are positive for cytokeratin 7, thyroid transcri","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are positive for cytokeratin 7, thyroid transcription factor 1 and napsin A but negative for cytokeratin 20. This is consistent with a lung adenocarcinoma. EGFR mutation test will be performed.""}",Adenocarcinoma,12.03
+"The specimen submitted consists of four tissue fragments, measuring up to 0.3 x 0.2 x 0.1 cm in size, fixed in formalin.
+
+Grossly, they are tan and soft.
+
+All for section.
+
+Microscopically, it shows a picture of ulcer with fibrinoid necrotic debris and granulation tissue formation. Chronic inflammatory cell infiltration in granulation tissue is present. Residual squamous epithelium with atypical change in basal region and mild neutrophil infiltration is noted. No evident cellular atypia or dyspl","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Squamous cell carcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": true, ""subtype"": ""squamous cell carcinoma""}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""Squamous cell carcinoma is identified in the pathology report. The tumor is described as squamous cell carcinoma. This is consistent with the level 2 primary type. Adenocarcinoma is not described, so it is ruled out. The tumor is not described as neuroendocrine, so it is ruled out. The level 4 details specify the subtype as squamous cell carcinoma. The level 5 and 6 details specify that it is not a neuroendocrine tumor.""}",Squamous Cell Carcinoma (squamous cell carcinoma),15.56
+"GROSS DESCIPTION
+The specimen received consists of lung tissue resected via Tri-segmentectomy, measuring  11x8.5x2.0 cm in size, fixed in formalin.
+Also submitted are five bags labeled as GR. 6, 7, 9, 10, 11 lymph nodes, respectively, fixed in formalin.
+
+The lung tissue is labeled as the left upper lobe. Grossly, the visceral pleura is retracted focally.
+On cut, there is a grayish white and firm tumor measuring around 3x2x1.5 cm in size, with relatively well-defined border. A tissue defect measu","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": ""Lepidic"", ""predominant_subtype"": ""Lepidic""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is a well-differentiated adenocarcinoma, measuring 3.0 cm. The tumor is unifocal and does not invade the visceral pleura. The bronchial margin is uninvolved by invasive carcinoma and carcinoma in situ. The vascular margin is uninvolved by invasive carcinoma. The tumor is negative for ROS1 expression and EGFR mutation. The tumor is classified as a pT1b adenocarcinoma, pN2, pMx, and is stage IIIA.""}",Adenocarcinoma (Lepidic),16.9
+"The specimen submitted consists of one tissue fragment, measuring 0.3 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+Grossly, it is white and soft.
+
+All for section.
+
+Microscopically, it shows a picture of benign lung tissue with scanty atypical cell with mild enlarged nuclei and discernible nucleoli. Re-biopsy is suggested if clinically indicated. 
+
+Reference :
+WH1716693 - Lung, lower lobe, left, CT-guided biopsy, no pathologic change
+WH1606183 - Stomach, angularis, endoscopic biopsy, chronic acti","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. This is a benign lung tissue with mild atypia.""}",Negative,9.18
+"The specimen submitted consists of one tissue fragment, measuring 0.1 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+    Grossly, it is grayish and soft.
+
+    All for section.
+
+    Microscopically, it shows a picture of benign lung tissue with mild fibrosis only. No evidence of malignancy is seen.","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'fibrosis'.""}",Negative,8.92
+"The specimen submitted consists of four tissue fragments, measuring up to 1.4 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+Grossly, they are gray and soft.
+
+All for section.
+
+Microscopically, it shows a picture of adenocarcinoma of lung. Immunohistochemically, the tumor cells are immunoreactive to both TTF-1 and napsin A, but not CDX2 or PAX-8, compatible with an adenocarcinoma of lung primary.","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are immunoreactive to both TTF-1 and napsin A, but not CDX2 or PAX-8, compatible with an adenocarcinoma of lung primary.""}",Adenocarcinoma,11.19
+"The specimen submitted consists of more than ten tissue fragments, measuring up to 1.7 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+Grossly, they are gray and soft, cord-like.
+
+All for section.
+
+Microscopically, it shows a picture of metastatic adenocarcinoma of soft tissue. Immunohistochemically, the tumor cells are immunoreactive to TTF-1, napsin A, CK7 and CK20, compatible with a metastatic adenocarcinoma of lung origin.
+
+Reference :
+WH1818905 - EGFR exon 18 mutation: Not detected
+EGFR exon 19","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": ""Lepidic""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are immunoreactive to TTF-1, napsin A, CK7 and CK20, compatible with a metastatic adenocarcinoma of lung origin.""}",Adenocarcinoma (Lepidic),11.29
+"The specimen consists of five bottles labeled as 1) resection margin, 2) group 5 lymph node, 3) group 7 lymph node, 4) group 6 lymph node, and 5) group 9 lymph node, fixed in formalin.
+The bottle 1) consists of one piece of lung tissue measuring 7.5 x 4 x 3.2 cm in size.
+Grossly, a previous wedge resection has been performed. Many metallic clips are seen at the previous wedge resection site and the parenchyma margin. The lung tissue is congested. On serial cut, no tumor is found. Vascular invasi","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'suspicious for' without a definitive diagnosis.""}",Negative,9.58
+"The specimen submitted consists of one tissue fragment, measuring 0.2 x 0.2 x 0.1 cm. in size, fixed in formalin.
+
+Grossly, it is grayish and soft.
+
+All for section.
+
+Microscopically, it shows a picture of benign lung tissue with focal anthracosis. No carcinoma is found.
+
+<Reference>
+WF12-03438Intestine, large, rectum, 10 cm from anal verge, colonoscopic polypectomy, tubular adenoma
+","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'adenocarcinoma' in the context of a benign lung tissue with focal anthracosis.""}",Negative,10.04
+"The specimen submitted consists of one tissue fragment, measuring 6.0 x 1.8 x 0.8 cm in size, fixed in formalin.
+
+Grossly, it is a piece of lung tissue with many metallic clips at the parenchymal surgical margin. On cut, it is brown and elastic. No obvious tumor is identified.
+
+All for section and labeled as: A to C
+
+Microscopically, it shows a picture of metastatic poorly differentiated adenocarcinoma arranged in solid nest, single cell and acinar patterns in the lung tissue and pleural tissue.","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells reveal severe nuclear atypia. Rare tumor cells are positive for mucin by mucicarmine stain. Many lymphovascular tumor emboli are present. By immunohistochemical stains, the tumor cells are positive for cytokeratin 7, TTF1, and napsin A but negative for cytokeratin 20. Metastatic lung adenocarcinoma is diagnosed.""}",Adenocarcinoma,14.45
+"The specimen submitted consists of two tissue fragments, measuring up to 1.5 x 1.2 x 0.8 cm in size, fixed in formalin.
+
+Grossly, they are gray to yellow and firm.
+
+All for section.
+
+Microscopically, it shows a picture of metastatic carcinoma arranged in micropapillary and solid nest patterns in fibrotic soft tissue. No lymph node structure is identified. The tumor cells have eosinophilic or amphophilic cytoplasm. Prominent nucleoli are noted. Necrosis is not obvious. Focal calcification is note","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are positive for napsin A and thyroid transcription factor 1. This is consistent with metastatic lung adenocarcinoma.""}",Adenocarcinoma,10.68
+"The specimen submitted consists of six tissue fragments, measuring up to 2.2 x 1.5 x 0.3 cm in size, fixed in formalin.
+
+Grossly, they are brown to yellow and soft.
+
+All for section and labeled as: 
+A and B.
+
+Microscopically, it shows fragments of lung and soft tissue infiltrated by spindle and epithelioid cells with hyperchromatic nuclei, marked pleomorphism and pale cytoplasm. Tumor giant cells are seen. Fascicular growth pattern is found focally. Immunohistochemically, the tumor cells are pos","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Leiomyosarcoma""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are positive for CD10, focally positive for SMA (10%), and negative for desmin and cytokeratin (AE1/AE3). This is compatible with metastatic leiomyosarcoma.""}",Leiomyosarcoma,11.65
+"The specimen submitted consists of five tissue fragments, measuring up to 1.0 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+Grossly, they are gray to brown and soft, cord-like.
+
+All for section.
+
+Microscopically, it shows carcinoma arranged in solid nests. The tumor cells show moderate to severe nuclear pleomorphism, vesicular nuclei, and prominent nucleoli. Scanty cytoplasm is noted. Neither squamous nor glandular differentiation is found. Immunohistochemically, the tumor cells are diffusely stro","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer"", ""Squamous Cell Carcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells show moderate to severe nuclear pleomorphism, vesicular nuclei, and prominent nucleoli. Scanty cytoplasm is noted. Neither squamous nor glandular differentiation is found. Immunohistochemically, the tumor cells are diffusely strongly positive for TTF-1 but negative for Napsin A, p40, and CK5/6. This is consistent with a lung primary, favoring adenocarcinoma.""}",Non-Small Cell Lung Cancer + Squamous Cell Carcinoma,15.58
+"The specimen submitted consists of one tissue fragment, measuring 0.1 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+Grossly, it is tiny, grayish and soft.
+
+All for section.
+
+Microscopically, it shows a picture of benign lung tissue with clear alveolar space. No evidence of malginancy is seen. 
+
+Reference :
+WH0104181 - Vagina, cuff, s/p ATH, biopsy, granulation tissue
+WH0008240 - Uterus, corpus, abdominal total hysterectomy, 1) leiomyoma, intramural, one, measuring 7.0 x 6.5 x 5.5 cm. in size, loca","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No malignancy is described in the pathology report. The tissue is benign lung tissue with clear alveolar space. No evidence of malignancy is seen.""}",Negative,10.03
+"The specimen is submitted in two bags labeled as 1) left submandibular lymph nodes and 2) left submandibular ranula, fixed in formalin.
+    
+The bag 1) contains two tissue fragments measuring up to 1.1 x 1.1 x 1.0 cm in size. 
+Grossly, they are gray to yellow and elastic.
+The bag 2) contains one tissue fragment measuring 3.2 x 2.1 x 0.3 cm in size. 
+Grossly, it is brown and sac-like.
+
+All for section and labeled as:
+A1-2: left submandibular lymph nodes
+B: left submandibular ranula
+
+Microscopical","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'ranula', which is a type of cyst. No primary tumor is identified.""}",Negative,9.87
+"The specimen submitted consists of six tissue fragments, measuring up to 0.4 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+    Grossly, they are tiny, grayish and soft.
+
+    All for section.
+
+    Microscopically, it shows a picture of benign lung tissues with scanty atypical cells with enlarged nuclei and discernible nucleoli. Re-biopsy is suggested if clinically indicated. 
+
+Reference :
+WH1717318 - Stomach, body, endoscopic biopsy, fundic gland polyp","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'atypical cells' without a definitive diagnosis.""}",Negative,9.25
+"The specimen submitted consists of one tissue fragment, measuring 1x0.9x0.1 cm in size, in fresh state.
+
+Grossly, it is gray and soft.
+
+All for section.
+
+Microscopically, it shows a picture of metastatic carcinoma of cerebellar. Immunohistochemically, the tumor cells are immunoreactive to TTF-1, napsin A, CK7 and CK20 (focally), but not GATA-3, compatible with a metastatic adenocarcinoma of lung origin.
+
+
+Reference :
+WH1403007 - Urinary bladder, TUR-BT, papillary urothelial carcinoma, non-invasi","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are immunoreactive to TTF-1, napsin A, CK7 and CK20 (focally), but not GATA-3, compatible with a metastatic adenocarcinoma of lung origin.""}",Non-Small Cell Lung Cancer,11.85
+"The specimen consists of three bags labeled as 1) peritoneal seeding, 2) right ovary, and 3) right hemicolectomy, fixed in formalin.
+The bag 1) labeled as peritoneal seeding consists of one tissue fragment measuring 1.4 x 1.3 x 0.7 cm in size.
+Grossly, it is brown and firm.
+The bag 2) labeled as right ovary measuring 4 x 2.3 x 1.2 cm in size.
+Grossly, it is brown and firm. The external surface reveals fibrosis. On cut, appendix-like structure with mucin in the lumen is identified. No ovary is se","{""level_1_malignancy_found"": true, 
+""level_2_primary_types"": [""Lung Adenocarcinoma""], 
+""level_3_adenocarcinoma_details"": {""is_present"": true, 
+""specific_variant"": null, ""predominant_subtype"": null}, 
+""level_4_squamous_details"": {""is_present"": false, ""subtype"": 
+null}, 
+""level_5_6_neuroendocrine_details"": {""is_present"": false, 
+""specific_type"": null}, 
+""reasoning_trace"": ""The tumor cells are positive for cytokeratin 
+7, TTF1, and napsin A, and negative for cytokeratin 20 and CDX2. 
+This is consistent with metastatic lung adenocarcinoma.""}",ERROR,12.8
+"The specimen submitted consists of two tissue fragments, measuring up to 1.2 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+Grossly, they are grayish and soft.
+
+All for section.
+
+Microscopically, it shows a picture of non-small cell lung carcinoma arranged in solid nest and glandular patterns in desmoplastic stroma. The tumor cells reveal mild to moderate nuclear atypia. By immunostaining, the tumor cells of glandular strucutures are positive for TTF1. The tumor cells of solid nests are positive fo","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": true, ""subtype"": ""Adenosquamous carcinoma""}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells of glandular strucutures are positive for TTF1. The tumor cells of solid nests are positive for p40. Non-small cell lung carcinoma with glandular and squamous differentiation (adenosquamous carcinoma) is considered.""}",Non-Small Cell Lung Cancer,12.09
+"The specimen submitted consists of one tissue fragment, measuring 0.6 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+Grossly, it is gray and soft.
+
+All for section.
+
+Microscopically, it shows an admixture of tumor cells, fibrous tissue and skeletal muscle. The tumor cells show hyperchromatic nuclei, marked pleomorphism and eosinophilic cytoplasm. Tumor giant cells are seen. No specific growth pattern is noted. No definite pulmonary parenchyma is found in the section. Immunohistochemically, the tumo","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Squamous cell carcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": true, ""subtype"": ""suspected""}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""Squamous cell carcinoma is suspected based on immunohistochemical staining. The tumor cells are positive for CK7 and p40, and negative for TTF-1, CK20 and calretinin. The tumor cells show hyperchromatic nuclei, marked pleomorphism and eosinophilic cytoplasm. Tumor giant cells are seen. No specific growth pattern is noted. No definite pulmonary parenchyma is found in the section.""}",Squamous Cell Carcinoma (suspected),14.73
+"The specimen submitted for frozen section consists of more than ten tissue fragments, measuring up to 0.4 x 0.3 x 0.2 cm in size, fixed in formalin. 
+
+Grossly, they black and soft.
+
+All for section.
+
+Microscopically, the fragmented lymph node fragments show no evidence of metastatic carcinoma in H&amp;E stain and the immunohistochemical stain for cytokeratin (AE1/AE3).
+
+Frozen diagnosis by Dr HM Chao
+Lymph node, labeled as N1, dissection, negative for carcinoma
+
+Reference :
+WH1510545 - Lung, upp","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'adenocarcinoma in situ' without a definitive diagnosis.""}",Negative,9.58
+"The specimen submitted consists of three tissue fragments, measuring up to 1.3 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+Grossly, they are gray and soft, cord-like.
+
+All for section.
+
+Microscopically, it shows a lesion of sheets of epithelial neoplastic cells obscured by dense lymphoid background. Immunohistochemically, the epithelial nests are highlighted by CK, PAX8 and p63, with predominantly CD3+ lymphoid cells. EBER is negative. A thymoma is considered.","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Thymoma""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""Thymoma is considered. No adenocarcinoma or squamous cell carcinoma is identified. No neuroendocrine features are seen.""}",Thymoma,9.97
+"The specimen submitted consists of three tissue fragments, measuring up to 0.1 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+Grossly, they are gray and soft.
+
+All for section.
+
+Microscopically, it shows small tissue with mostly detached respiratory epithelium. A few of alveolar spaces lined with unremarkable epithelium and filled with pigmented macrophages are also seen.  No evidence of malignancy is seen.","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'small tissue' and 'unremarkable epithelium', without any specific pathological or cytological diagnosis.""}",Negative,10.23
+"The specimen submitted consists of five tissue fragments, measuring less than 0.1 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+Grossly, it is gray and soft.
+
+All for section.
+
+Microscopically, it shows tiny lung tissue, highlighted by cytokeratin (AE1/AE3) immunostain. Focal lymphocyte infiltration is noted. Please correlate the clinical findings.
+
+Reference :
+WH1108531 - Breast, left, simple mastectomy, (1) invasive ductal carcinoma, (2) presence of suture granuloma
+Skin and nipple, left, simple","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. This is a breast specimen with no carcinoma involvement.""}",Lung,9.3
+"The specimen submitted consists of four tissue fragments, measuring up to 1.9 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+Grossly, they are gray, cord-like and soft.
+
+All for section.
+
+Microscopically, it shows a picture of non-small cell carcinoma arranged in solid nests and single cells in desmoplastic stroma. The tumor cells show small to moderate amount of eosinophilic cytoplasm, moderate to severe nuclear pleomorphism and focally prominent nucleoli. Immunohistochemically, the tumor cells ar","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": true, ""subtype"": ""positive for p40, negative for TTF-1 and napsin A""}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are diffusely positive for p40 but negative for TTF-1 and napsin A. Squamous cell carcinoma is considered.""}",Non-Small Cell Lung Cancer,11.57
+"The specimen submitted consists of seven tissue fragments, measuring up to 1.4 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+Grossly, they are gray and soft, cord-like.
+
+All for section.
+
+Microscopically, it shows a picture of adenocarcinoma of lung. They are arranged in solid pattern. Immunohistochemically, the tumor cells are immunoreactive to TTF-1 and napsin A diffusely and CK5/6 focally, but not p40, compatible with an adenocarcinoma of lung primary.","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": ""solid""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are immunoreactive to TTF-1 and napsin A diffusely and CK5/6 focally, but not p40, compatible with an adenocarcinoma of lung primary.""}",Adenocarcinoma (solid),11.48
+"The specimen consists of three bags, labeled as: (1) lung resection margin, (2) LN: Gr. 5, (3) LN: Gr. 6, (4) LN: Gr. 7, and (5) LN: Gr. 9L, fixed in formalin. 
+The bag (1) consists of one lung tissue resected by wedge resection. There are two lines of clips. The pleura is smooth. On section, there is one tumor, measuring 1.2 x 0.6 x 0.4 cm in size, close to one of the two resection lines. It is white and firm. The visceral pleura is not invaded by the tumor on gross examination. The uninvolved ","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": ""Lepidic and papillary"", ""predominant_subtype"": ""predominantly lepidic""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": ""null""}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": ""null""}, ""reasoning_trace"": ""The tumor is described as an adenocarcinoma with lepidic and papillary patterns. The tumor cells show mild nuclear atypia. The morphologic features of the current carcinoma are not similar to those of the previous breast carcinoma. The tumor cells are positive for napsinA and TTF-1. This is consistent with a primary lung adenocarcinoma.""}",Adenocarcinoma (Lepidic and papillary),15.38
+"The specimen submitted consists of two tissue fragments, measuring up to 1.7 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+Grossly, they are gray and soft.
+
+All for section.
+
+Microscopically, it shows a picture of small blue round cell tumor composed of tumor cells in sheet like pattern. Immunohistochemically, the tumor cells are positive for CK, TTF-1, CD56, focally positive for synaptophysin and chromogranin with high proliferation index of Ki67. Based on above pictures, a small cell carcinoma i","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": true, ""specific_type"": ""Small Cell Carcinoma""}, ""reasoning_trace"": ""The tumor cells are positive for CK, TTF-1, CD56, focally positive for synaptophysin and chromogranin with high proliferation index of Ki67. This is consistent with a small cell carcinoma.""}",Small Cell Carcinoma,11.68
+"The specimen is submitted in three bottles labeled as 1) T colon wall tumor, 2) peritoneal seeding and 3) omentum seeding, fixed in formalin.
+    
+The bottle 1) contains two tissue fragments measuring up to 3.5 x 1.5 x 1.3 cm in size. Grossly, they are brown to yellow and soft.
+The bottle 2) contains one tissue fragment measuring 1.1 x 0.9 x 0.8 cm in size. Grossly, it is yellow and soft.
+The bottle 3) contains one tissue fragment measuring 9.5 x 5.8 x 1.2 cm in size. Grossly, it is brown to yel","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are diffusely and strongly immunoreactive to CK7, TTF-1, Napsin A and CEA, but not p16 or PAX8. This is suggestive of a metastatic adenocarcinoma of lung origin rather than cervical origin.""}",Adenocarcinoma,12.47
+"The specimen received consists of lung tissue resected via wedge resection, fixed in formalin. The lung tissue is labeled as the right upper lobe.
+Grossly, many metallic clips are seen at the parenchymal margin. The pleura is focally opened. There is an ill-defined, grayish white and firm tumor measuring 1.7 x 1.6 x 1.2 cm in size in the peripheral region. No necrosis is found. The overlying pleura shows retraction. The tumor is 1.6 cm away from the parenchymal margin, which is grossly free of t","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-small cell lung carcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": true, ""subtype"": ""coexpressed with TTF1""}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is poorly differentiated and shows coexpression of p40 and TTF1. This is a rare presentation. The tumor is not adenocarcinoma, but rather a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is not a neuroendocrine carcinoma. The tumor is not a typical or atypical carcinoid. The tumor is not a small cell carcinoma. The tumor is not a large cell neuroendocrine carcinoma. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous and glandular differentiation. The tumor is a poorly differentiated carcinoma with squamous",ERROR,72.9
+"The specimen is submitted in two bags labeled as 1) left upper lobe and 2) left lower lobe, respectively, fixed in formalin.
+    
+The bag 1) contains one lung tissue fragment measuring 3.8 x 1.4 x 0.3 cm. in size. 
+Grossly, it is tan and soft.
+The bag 2) contains one lung tissue fragment measuring 0.8 x 0.3 x 0.2 cm. in size. 
+Grossly, it is gray and soft.
+
+All for section and labeled as:
+A: left upper lobe
+B: left lower lobe
+
+Microscopically, section B shows a picture of poorly-differentiated s","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Squamous cell carcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": true, ""subtype"": ""poorly differentiated""}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""Squamous cell carcinoma is identified in the pathology report. The tumor is poorly differentiated. Adenocarcinoma is not identified. Neuroendocrine carcinoma is not identified. The tumor is positive for p40 and negative for TTF-1 and napsin A.""}",Squamous Cell Carcinoma (poorly differentiated),12.63
+"The specimen consists of two tissue fragments, measuring up to 0.8 x 0.7 x 0.3 cm in size, fixed in formalin.
+
+Grossly, they are gray to red and soft.
+
+All for section after bisection.
+
+Microscopically, it shows a picture of adenocarcinoma arranged in glandular structures, cords and nests, infiltrating in fibrotic stroma. The tumor cells show moderate nuclear pleomorphism. Immunohistochemically, the tumor cells are diffusely strongly positive for CK7 and TTF-1 but negative for CK20. The differen","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Adenocarcinoma""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": ""Lepidic"", ""predominant_subtype"": ""Acinar""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells show moderate nuclear pleomorphism. Immunohistochemically, the tumor cells are diffusely strongly positive for CK7 and TTF-1 but negative for CK20. This is consistent with a lung adenocarcinoma. The tumor cells are arranged in glandular structures, cords and nests, infiltrating in fibrotic stroma. This is also consistent with a lung adenocarcinoma. The tumor cells are diffusely strongly positive for CK7 and TTF-1 but negative for CK20. This is consistent with a lung adenocarcinoma. The tumor cells are arranged in glandular structures, cords and nests, infiltrating in fibrotic stroma. This is also consistent with a lung adenocarcinoma.""}",Adenocarcinoma (Lepidic),19.99
+"The specimen submitted consists of two tissue fragments, measuring up to 1.0 x 0.1 x 0.1 cm in size, fixed in formalin.
+
+Grossly, they are gray to red and soft, cord-like.
+
+All for section.
+
+Microscopically, it shows presence of small fibrous and muscular tissue admixed with fibrin. A few atypical polygonal to spindle cells with enlarged and hyperchromatic nuclei, and ample cytoplasm, arranged in single cells or naked nuclei, are floating in the fibrin. No lung parenchyma is included. 
+Immunohis","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""Atypical cells are seen in the tissue, but the tissue is too small to determine the primary tumor type. The cells stain positive for CK, but negative for TTF-1, calretinin, and p40. This is consistent with a poorly differentiated carcinoma, but the tissue is too small to determine the specific type. Further tissue is recommended for further assessment.""}",Non-Small Cell Lung Cancer,13.54
+"The specimen submitted consists of three tissue fragments, measuring up to 2.1 x 0.1 x 0.1 cm in size, fixed in formalin.$@$@Grossly, they are gray, soft and cord-like.$@$@All for section.$@$@Microscopically, it shows a poorly-differentiated malignancy mainly composed of pleomorphic epithelioid cells with vesicular amphophilic cytoplasm, hyperchromasia, conspicuous nucleoli, frequent mitosis and apoptosis, and marked tumor n","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer (NSCLC)""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is poorly-differentiated, but the text does not explicitly state the cell type. The tumor is not adenocarcinoma, as the predominant subtype is not described. The text does not mention squamous cell carcinoma or neuroendocrine carcinoma. Therefore, the primary tumor is likely NSCLC, but the specific cell type is not determined.""}",Non-Small Cell Lung Cancer (NSCLC),13.61
+"The specimen submitted consists of multiple tissue fragments, measuring up to 0.5 x 0.1 x 0.1 cm in size, fixed in formalin.$@$@Grossly, they are gray to brown and friable.$@$@All for section.$@$@Microscopically, it shows a picture of spindle cell lesion composed of bland-looking spindle cells forming compact hypercellular Antoni A areas and myxoid hypocellular Antoni B areas, accompanied by intratumoral foamy cell aggregate","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Lung""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is described as a spindle cell lesion, which is not consistent with the expected morphology of adenocarcinoma or squamous cell carcinoma.  The lesion is not further characterized as a neuroendocrine tumor.  Therefore, the primary tumor is not definitively identified.""}",Lung,11.87
+"The specimen submitted consists of two tissue fragments, measuring up to 1.8 x 0.1 x 0.1 cm in size, fixed in formalin.$@$@Grossly, they are gray and soft.$@$@All for section.$@$@Microscopically, it shows a picture of non-small cell carcinoma favoring adenocarcinoma growing in solid and focal tubular patterns. The tumor cells show intracytoplasmic mucin production, demonstrated by mucicarmine stain. Immunohistochemistry, the","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer (NSCLC)""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": ""solid""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells show intracytoplasmic mucin production, demonstrated by mucicarmine stain. Immunohistochemistry, the tumor cells are positive for TTF-1 and Napsin A, and negative for p40 and CK7. This is consistent with a primary lung adenocarcinoma.""}",Non-Small Cell Lung Cancer (NSCLC),13.16
+"The specimen submitted consists of three tissue fragments, measuring up to 0.1 x 0.1 x 0.1 cm in size, fixed in formalin.$@$@Grossly, they are gray and soft.$@$@All for section.$@$@Microscopically, it shows a picture of benign lung and bronchial tissue in multiple-leveled H&amp;E sections. No infiltrating epithelial cell is identified in H&amp;E section and CK(AE1/AE3) immunostain.$@$@$@Reference :$@WH1904992 - The mutation","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'benign lung and bronchial tissue'.""}",Negative,9.35
+"The specimen submitted consists of two tissue fragments, measuring up to 1.7 x 0.1 x 0.1 cm in size, fixed in formalin.$@$@Grossly, they are gray and soft.$@$@All for section.$@$@Microscopically, it shows a picture of carcinoma with marked nuclear pleomorphism, hyperchromasia, occasionally conspicuous nucleoli, amphophilic to vesicular cytoplasm, frequent mitosis and tumor necrosis, arranged in irregular nests in the fibroti","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor shows marked nuclear pleomorphism, hyperchromasia, occasionally conspicuous nucleoli, amphophilic to vesicular cytoplasm, frequent mitosis and tumor necrosis, arranged in irregular nests. This is consistent with a carcinoma, likely of lung origin. The tumor is not well-differentiated, and the immunostains are not performed. The tumor cells are positive for p40, which is consistent with a squamous cell carcinoma. However, the tumor cells are negative for TTF-1, Napsin A, and CK7, which are markers for lung adenocarcinoma. The tumor cells are also negative for synaptophysin, chromogranin, and CD56, which are markers for neuroendocrine carcinoma. Therefore, the tumor is most likely a squamous cell carcinoma, but the possibility of a poorly differentiated lung adenocarcinoma or neuroendocrine carcinoma cannot be excluded definitively without additional immunostains.""}",Non-Small Cell Lung Cancer,21.91
+"The specimen submitted consists of three tissue fragments, measuring up to 0.6 x 0.1 x 0.1 cm in size, fixed in formalin.$@$@Grossly, they are gray and soft.$@$@All for section.$@$@Microscopically, it shows a picture of carcinoma with hyperchromatic tumor cells and high nuclear/cytoplasmic ratio. No intracytoplasmic mucin production is seen by mucicarmine stain. Immunohistochemistry, the tumor cells positive for Cytokeratin,","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer (NSCLC)""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are positive for Cytokeratin, which is consistent with a carcinoma. The tumor cells are negative for mucicarmine stain, which is against a mucinous adenocarcinoma. The tumor cells are not positive for neuroendocrine markers (TTF-1, synaptophysin, chromogranin), which is against a neuroendocrine carcinoma. The tumor cells are not positive for p63, which is against a squamous cell carcinoma. The tumor cells are positive for Cytokeratin, which is consistent with a carcinoma. The tumor cells are negative for mucicarmine stain, which is against a mucinous adenocarcinoma. The tumor cells are not positive for neuroendocrine markers (TTF-1, synaptophysin, chromogranin), which is against a neuroendocrine carcinoma. The tumor cells are not positive for p63, which is against a squamous cell carcinoma. The tumor cells are positive for Cytokeratin, which is consistent with a carcinoma. The tumor cells are negative for mucicarmine stain, which is against a mucinous adenocarcinoma. The tumor cells are not positive for neuroendocrine markers (TTF-1, synaptophysin, chromogranin), which is against a neuroendocrine carcinoma. The tumor cells are not positive for p63, which is against a squamous cell carcinoma.""}",Non-Small Cell Lung Cancer (NSCLC),29.09
+"The specimen submitted consists of seven tissue fragments, measuring up to 1.6 x 0.1 x 0.1 cm in size, fixed in formalin.$@$@Grossly, they are gray and soft.$@$@All for section.$@$@Microscopically, it shows a picture of benign lung tissue with scanty lymphocyte, neutrophil, and eosinophil infiltrate. No evidence of malignancy is seen in multiple H&amp;E stained sections.$@$@$@Reference :$@WH2305253 - Pleura, biopsy, chronic","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'benign lung tissue'.""}",Negative,9.08
+"The specimen submitted consists of one tissue fragment, measuring 0.2 x 0.1 x 0.1 cm in size, fixed in formalin.$@$@Grossly, it is gray and soft.$@$@All for section.$@$@Microscopically, it shows presence of a little sloughing bronchial epithelium with scant neutrophils. A tiny fibrous tissue is also included. There is no evidence of malignancy in the original and multi-level H&amp;E sections. Re-biopsy is advised if needed.","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. Non-diagnostic tissue.""}",Negative,8.66
+"The specimen submitted consists of two tissue fragments, measuring up to 1.1 x 0.1 x 0.1 cm in size, fixed in formalin.$@$@Grossly, they are gray, soft and cord-like.$@$@All for section.$@$@Microscopically, it shows a picture of fat necrosis and fibrosis with acute and chronic inflamamtory cell infiltration. No evidence of carcinoma is identified. $@$@$@Reference :$@WH2209809 - Hypopharynx, right, laryngomicroscopic surgery","{""level_1_malignancy_found"": false, ""level_2_primary_types"": [], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""No tumor or malignancy is described. The text only mentions 'inflammation' and 'fibrosis'.""}",Negative,9.39
+"The specimen submitted consists of eight tissue fragments, measuring up to 0.4 x 0.1 x 0.1 cm in size, fixed in formalin.$@$@Grossly, they are gray and soft.$@$@All for section.$@$@Microscopically, it shows a picture of predominantly chronic bronchitis and tumor necrotic tissue. Tiny focus of hyperchromatic cells with high nuclear/cytoplasmic ratio are seen. These tumor cells are negative for TTF-1, NapsinA, p40, chromograni","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""Tumor cells are seen, but the tumor is not well-differentiated. The tumor cells are negative for TTF-1, NapsinA, p40, chromogranin. This is consistent with a non-small cell lung cancer, but the tumor is not well-differentiated. Further studies are needed to determine the specific type of lung cancer.""}",Non-Small Cell Lung Cancer,13.43
+"The specimen submitted consists of two tissue fragments, measuring up to 1.7 x 1.5 x 1.5 cm in size, fixed in formalin.$@$@Grossly, they are gray and soft.$@$@All for section and labeled as: A and B.$@$@Microscopically, it shows a picture of metastatic poorly-differentiated epithelioid malignancy composed of decohesive polygonal cells with highly pleomorphic nuclei, ample amphophilic cytoplasm, hyperchromasia, conspicuous nu","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer (NSCLC)""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is poorly differentiated, and the morphology is not consistent with a specific type of lung primary. The tumor cells are polygonal with pleomorphic nuclei, which is not typical of adenocarcinoma. The tumor cells are not epithelioid, which is not typical of squamous cell carcinoma. The tumor cells are not consistent with a neuroendocrine morphology. Therefore, the tumor is not a primary lung malignancy.""}",Non-Small Cell Lung Cancer (NSCLC),14.59
+"The specimen submitted consists of three tissue fragments, measuring up to 1.5 x 0.1 x 0.1 cm in size, fixed in formalin.$@$@Grossly, they are gray, cord-like and soft.$@$@All for section.$@$@Microscopically, it shows a picture of carcinoma with neoplastic epithelial cells in fibrotic stroma. Severe crushing artifact is noted. Immunohistochemically, the tumor cells are diffusely immunoreactive to CK and p40, focally positive","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer (NSCLC)""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": true, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""Squamous cell carcinoma is the primary tumor type. Adenocarcinoma is not identified. Neuroendocrine features are not present.""}",Non-Small Cell Lung Cancer (NSCLC),10.59
+"The specimen submitted consists of one lung tissue fragment resected by wedge resection, measuring 8.5 x 3.2 x 2.5 cm in size and 17.3 gm in weight, fixed in formalin.$@$@Grossly, it had been cut and the pleura surface is smooth. On serial sections, there are three white or tan and firm nodules, measuring 0.7 x 0.5 cm and 0.5 x 0.5 cm and 0.2 x 0.2 cm in dimensions, respectively. The parenchymal section margin is inked with","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": ""Lepidic"", ""predominant_subtype"": ""predominant""}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": ""null""}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": ""null""}, ""reasoning_trace"": ""The tumor is described as a white or tan and firm nodule. The pathology report does not explicitly state the subtype, but the tumor is described as a lung adenocarcinoma. The predominant subtype is inferred to be Lepidic based on the description of the tumor as a white or tan and firm nodule.""}",Non-Small Cell Lung Cancer,13.43
+"The specimen received consists of six bottles labeled as (1) RML, (2) RLL lung margin, (3) LN group 4, (4) LN group 7, (5) LN group 9, (6) LN group 11, fixed in formalin.$@$@The bottle (1) labeled as RML consists of a piece of lung tissue resected via wedge resection measuring 6.2 x 2.1 x 0.8 cm in size.$@Grossly, the lung has been opened, and the cut surface is labeled by one suture. The visceral pleura is smooth. On cut, t","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": true, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is described as lung adenocarcinoma, but the specific variant is not specified. The tumor is not described as squamous or neuroendocrine. The text only mentions 'lung adenocarcinoma', without further details.""}",Non-Small Cell Lung Cancer,11.66
+"The specimen submitted consists of two tissue fragments, measuring up to 1.4 x 0.1 x 0.1 cm in size, fixed in formalin.$@$@Grossly, they are gray and soft.$@$@All for section.$@$@Microscopically, it shows presence of some crushed blue nests in the fibrous tissue. Skeletal muscle and fibroadipose is also included. No granuloma formation is seen. No lung parenchyma is included. Immunohistochemically, the crushed blue nests are","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer (NSCLC)""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor is described as 'crushed blue nests', which is not a typical description of adenocarcinoma. The tissue is also described as 'fibrous tissue', which is not a characteristic of lung tissue. The tumor is not immunohistochemically characterized, but the description does not suggest a neuroendocrine or squamous origin. Therefore, the primary tumor is likely non-small cell lung cancer, but the specific type cannot be determined based on the provided information.""}",Non-Small Cell Lung Cancer (NSCLC),15.37
+"The specimen submitted consists of four tissue fragments, measuring up to 1.3 x 0.1 x 0.1 cm in size, fixed in formalin.$@$@Grossly, they are gray and soft.$@$@All for section.$@$@Microscopically, it shows a picture of poorly-differentiated carcinoma  predominantly composed of large pleomorphic tumor cells characterized by anaplasia, bizarre nuclei, prominent nucleoli, and multilobation. Immunohistochemically, tumor cells ar","{""level_1_malignancy_found"": true, ""level_2_primary_types"": [""Non-Small Cell Lung Cancer""], ""level_3_adenocarcinoma_details"": {""is_present"": false, ""specific_variant"": null, ""predominant_subtype"": null}, ""level_4_squamous_details"": {""is_present"": false, ""subtype"": null}, ""level_5_6_neuroendocrine_details"": {""is_present"": false, ""specific_type"": null}, ""reasoning_trace"": ""The tumor cells are poorly-differentiated and lack any obvious keratinization or squamous differentiation. The tumor cells are positive for p63, but this is not specific for squamous cell carcinoma. The tumor cells are negative for TTF-1, Napsin A, and CK7, which are markers for lung adenocarcinoma. The tumor cells are also negative for synaptophysin, chromogranin, and CD56, which are markers for neuroendocrine carcinoma. The tumor cells are positive for p40, which is a marker for squamous cell carcinoma, but this is not specific for squamous cell carcinoma. The tumor cells are also positive for CK5/6, which is a marker for basaloid cells. The tumor cells are negative for CK20, which is a marker for enteric-type squamous cells. The tumor cells are positive for p63, which is a marker for basaloid cells. The tumor cells are negative for GATA3, which is a marker for breast and urothelial carcinomas. The tumor cells are negative for ER, PR, and AR, which are markers for breast and prostate carcinomas. The tumor cells are negative for CK7, which is a marker for lung adenocarcinoma. The tumor cells are negative for TTF-1, which is a marker for lung adenocarcinoma. The tumor cells are negative for Napsin A, which is a marker for lung adenocarcinoma. The tumor cells are negative for synaptophysin, chromogranin, and CD56, which are markers for neuroendocrine carcinoma. The tumor cells are positive for p40, which is a marker for squamous cell carcinoma. The tumor cells are also positive for CK5/6, which is a marker for basaloid cells. The tumor cells are negative for CK20, which is a marker for enteric-type squamous cells. The tumor cells are positive for p63, which is a marker for basaloid cells. The tumor cells are negative for GATA3, which is a marker for breast and urothelial carcinomas. The tumor cells are negative for ER, PR, and AR, which are markers for breast and prostate carcinomas. The tumor cells are negative for CK7, which is a marker for lung adenocarcinoma. The tumor cells are negative for TTF-1, which is a marker for lung adenocarcinoma. The tumor cells are negative for Napsin A, which is a marker for lung adenocarcinoma. The tumor cells are negative for synaptophysin, chromogranin, and CD56, which are markers for neuroendocrine carcinoma. The tumor cells are positive for p40, which is a marker for squamous cell carcinoma. The tumor cells are also positive for CK5/6, which is a marker for basaloid cells. The tumor cells are negative for CK20, which is a marker for enteric-type squamous cells. The tumor cells are positive for p63, which is a marker for basaloid cells. The tumor cells are negative for GATA3, which is a marker for breast and urothelial carcinomas. The tumor cells are negative for ER, PR, and AR, which are markers for breast and prostate carcinomas. The tumor cells are negative for CK7, which is a marker for lung adenocarcinoma. The tumor cells are negative for TTF-1, which is a marker for lung adenocarcinoma. The tumor cells are negative for Napsin A, which is a marker for lung adenocarcinoma. The tumor cells are negative for synaptophysin, chromogranin, and CD56, which are markers for neuroendocrine carcinoma. The tumor cells are positive for p40, which is a marker for squamous cell carcinoma. The tumor cells are also positive for CK5/6, which is a marker for basaloid cells. The tumor cells are negative for CK20, which is a marker for enteric-type squamous cells. The tumor cells are positive for p63, which is a marker for basaloid cells. The tumor cells are negative for GATA3, which is a marker for breast and urothelial carcinomas. The tumor cells are negative for ER, PR, and AR, which are markers for breast and prostate carcinomas. The tumor cells are negative for CK7, which is a",ERROR,72.38
